@@ -3,11 +3,11 @@
     <nav class="menu">
         <section class="menu__container">
             <div class="menu__logo">
-                <a href="index.html"><img src="./resources/assets/img/laplaza.webp" id="logo_bars" /></a>
+                <a href="./index.php"><img src="./resources/assets/img/laplaza.webp" id="logo_bars" /></a>
             </div>
             <ul class="menu__links">
                 <li class="menu__item">
-                    <a href="index.html" class="menu__link">Inicio</a>
+                    <a href="./index.php" class="menu__link">Inicio</a>
                 </li>
 
                 <li class="menu__item menu__item--show">
@@ -17,10 +17,10 @@
                             <a href="#main" class="menu__link menu__link--inside">Noticias</a>
                         </li>
                         <li class="menu__inside">
-                            <a href="./public/podcast.php" target="_blank" class="menu__link menu__link--inside">Podcasts</a>
+                            <a href="./podcast.php" target="_blank" class="menu__link menu__link--inside">Podcasts</a>
                         </li>
                         <li class="menu__inside">
-                            <a href="./public/s-n.php" target="_blank" class="menu__link menu__link--inside descarga__app">Quienes somos</a>
+                            <a href="./s-n.php" target="_blank" class="menu__link menu__link--inside descarga__app">Quienes somos</a>
                         </li>
                     </ul>
                 </li>
