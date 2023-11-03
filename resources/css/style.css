@@ -1,0 +1,792 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700&family=Sen&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background: var(--color-hueso);
+    background-size: cover;
+
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+*::selection {
+    background: var(--color-rojo);
+    color: var(--color-negro);
+}
+
+h1 {
+    font-size: 35px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 16px;
+}
+
+h4 {
+    font-size: 14px;
+}
+
+h5 {
+    font-size: 10px;
+}
+
+:root {
+    --color-negro: #040404;
+    --color-rojo: #e20002;
+    --color-gris: #777;
+    --color-hueso: #efefef;
+    --color-text: #54595f;
+    --color-gris2: #d1d1d1;
+}
+
+
+/*HEADER*/
+.menu__logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 2px;
+    background-color: #fff;
+    width: 40px;
+    padding: 2px;
+}
+
+.menu__logo img {
+    width: 35px;
+    height: 35px;
+}
+
+.menu__logo a {
+    text-decoration: none;
+    cursor: pointer;
+
+}
+
+.menu {
+    background-color: var(--color-negro);
+    color: #fff;
+    height: 71px;
+    width: 100%;
+    z-index: 1;
+}
+
+.menu__container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+    max-width: 1200px;
+    height: 100%;
+    margin: 0 auto;
+}
+
+.menu__links {
+    height: 100%;
+    transition: transform .5s;
+    display: flex;
+    z-index: 2;
+}
+
+.menu__item {
+    list-style: none;
+    position: relative;
+    height: 100%;
+    --clip: polygon(0 0, 100% 0, 100% 0, 0 0);
+    --transform: rotate(-90deg);
+}
+
+.menu__item:hover {
+    --clip: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+    --transform: rotate(0);
+}
+
+.menu__link {
+    color: #fff;
+    text-decoration: none;
+    padding: 0 30px;
+    display: flex;
+    height: 100%;
+    align-items: center;
+}
+
+.menu__link:hover {
+    background-color: var(--color-negro);
+}
+
+
+.menu__arrow {
+    transform: var(--transform);
+    transition: transform .3s;
+    display: block;
+    margin-left: 3px;
+}
+
+.menu__nesting {
+    list-style: none;
+    transition: clip-path .3s;
+    clip-path: var(--clip);
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    width: max-content;
+    transform: translateY(100%);
+    background-color: var(--color-negro);
+}
+
+.menu__link--inside {
+    padding: 30px 100px 30px 20px;
+}
+
+.menu__link--inside:hover {
+    background-color: var(--color-negro);
+}
+
+.menu__hamburguer {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    padding: 0 15px;
+    cursor: pointer;
+    display: none;
+}
+
+.menu__img {
+    display: block;
+    width: 36px;
+}
+
+/*FOTO*/
+
+.fondo {
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: var(--color-hueso);
+    text-align: center;
+    background-image: linear-gradient(0deg,
+            rgba(0, 0, 0, 0.5),
+            rgba(0, 0, 0, 0.5)), url(../assets/img/iglesia.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+}
+
+.titulo {
+    letter-spacing: 2px;
+    padding-top: 10px;
+}
+
+.eslogan {
+    letter-spacing: 1px;
+    font-family: 'Roboto', sans-serif;
+    padding-bottom: 15px;
+}
+
+.fondo__img {
+    background-color: #fff;
+    border: solid 3px var(--color-negro);
+    border-radius: 50%;
+    padding: 12px;
+}
+
+.fondo img {
+    width: 140px;
+    height: 140px;
+
+}
+
+.audio-conteiner {
+    padding-top: 15px;
+
+}
+
+.fondo .sms {
+    padding-top: 10px;
+}
+
+.fa-whatsapp {
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+
+/*MAIN*/
+main {
+    overflow: hidden;
+    padding: 20px 0;
+    background-color: var(--color-hueso);
+    color: #000;
+
+}
+
+/*SLIDER PUBLICIDADES*/
+.publicidades__conteiner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+    gap: 5px;
+}
+
+.slider-frame {
+    width: 350px;
+    height: 200px;
+    overflow: hidden;
+}
+
+.slider-frame ul {
+    display: flex;
+    padding: 0;
+    width: 400%;
+    animation: slide 20s infinite alternate ease-in-out;
+}
+
+.slider-frame li {
+    width: 100%;
+    list-style: none;
+}
+
+.slider-frame img {
+    border-radius: 2px;
+    width: 100%;
+
+}
+
+@keyframes slide {
+    0% {
+        margin-left: 0;
+    }
+
+    20% {
+        margin-left: 0;
+    }
+
+    25% {
+        margin-left: -100%;
+    }
+
+    45% {
+        margin-left: -100%;
+    }
+
+    50% {
+        margin-left: -200%;
+    }
+
+    70% {
+        margin-left: -200%;
+    }
+
+    75% {
+        margin-left: -300%;
+    }
+
+    100% {
+        margin-left: -300%;
+    }
+}
+
+
+/*NOTICIAS*/
+.audio__notas {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+
+.noticias__conteiner {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 30px 0px;
+}
+
+.noticias {
+    margin: 10px 0;
+    display: flex;
+    flex-direction: column;
+    max-width: 350px;
+}
+
+.img__noticias {
+    border-radius: 2px;
+    filter: brightness(110%);
+    margin-bottom: 5px;
+    object-fit: cover start;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.7);
+    width: 350px;
+    height: 200px;
+}
+
+.noticias_contenido p {
+    font-size: 13px;
+    color: var(--color-text);
+}
+
+.noticias_contenido h3:hover {
+    color: var(--color-rojo);
+    cursor: pointer;
+}
+
+.noticias_contenido h5 {
+    color: #54595f;
+
+}
+
+.medios__conteiner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+
+.medios img {
+    margin: 0px 3px 4px 3px;
+    width: 50px;
+    height: auto;
+}
+
+/*SOBRE NOSOTROS*/
+.sobre-nos__conteiner {
+    margin: 20px 0;
+}
+
+.sobre-nos {
+    padding: 5px 0;
+    border-top: 2px solid #ddd;
+    border-bottom: 2px solid #ddd;
+    font-size: 15px;
+    color: #000;
+}
+
+/*DESCARGA APP*/
+.desc__conten {
+    display: none;
+}
+
+.descarga a {
+    color: var(--color-rojo);
+    font-size: 27px;
+}
+
+/*PUBLITA CON NOSOTROS*/
+.publicita__nosotros {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0;
+}
+
+.publicita__nosotros img {
+    object-fit: cover;
+    width: 900px;
+    height: 145px;
+    border-radius: 2px;
+}
+
+/*FOOTER*/
+
+footer {
+    width: 100%;
+    overflow: hidden;
+    background-color: var(--color-negro);
+    padding-top: 25px;
+
+}
+
+.redes {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+}
+
+.redes a {
+    padding-right: 15px;
+    text-decoration: none;
+    color: var(--color-gris2);
+    font-size: 20px;
+}
+
+.redes a:hover {
+    color: var(--color-rojo);
+
+}
+
+#copy {
+    font-size: 11px;
+    text-align: center;
+    color: var(--color-gris);
+    font-family: 'Sen', sans-serif;
+    padding-bottom: 5px;
+}
+
+/*desktop*/
+@media screen and (min-width:1440px) and (max-width:2559px) {
+
+    /*MAIN*/
+    main {
+        padding: 20px 175px;
+    }
+}
+
+@media screen and (min-width:1024px) and (max-width:1439px) {
+
+    /*MAIN*/
+    main {
+        padding: 20px 40px;
+    }
+
+    /*noticias*/
+    .noticias {
+        width: 300px;
+    }
+
+    .img__noticias {
+        width: 100%;
+        height: 180px;
+    }
+}
+
+/*DISPOSITIVOS MOVILES*/
+@media screen and (min-width:320px) AND (max-width:1023px) {
+    h1 {
+        font-size: 30px;
+    }
+
+    h2 {
+        font-size: 27px;
+    }
+
+    h3 {
+        font-size: 15px;
+    }
+
+    h4 {
+        font-size: 13px;
+    }
+
+    h5 {
+        font-size: 10px;
+    }
+
+    p {
+        font-size: 12px;
+    }
+
+    .menu {
+        position: fixed;
+        width: 100%;
+
+    }
+
+    .menu__hamburguer {
+        display: flex;
+    }
+
+    .menu__item {
+        --clip: 0;
+        overflow: hidden;
+    }
+
+    .menu__item--active {
+        --transform: rotate(0);
+        --background: #040404;
+    }
+
+    .menu__item--show {
+        background-color: var(--background);
+    }
+
+    .menu__links {
+        position: fixed;
+        max-width: 1023px;
+        width: 100%;
+        top: 70px;
+        bottom: 0;
+        right: 0;
+        background-color: var(--color-negro);
+        overflow-y: auto;
+        display: grid;
+        grid-auto-rows: max-content;
+        transform: translateX(100%);
+    }
+
+    .menu__links--show {
+        transform: unset;
+        width: 100%;
+    }
+
+    .menu__link {
+        padding: 25px 0;
+        padding-left: 30px;
+        height: auto;
+    }
+
+    .menu__arrow {
+        margin-left: auto;
+        margin-right: 20px;
+    }
+
+    .menu__nesting {
+        display: grid;
+        position: unset;
+        width: 100%;
+        transform: translateY(0);
+        height: 0;
+        transition: height .3s;
+    }
+
+    .menu__link--inside {
+        width: 90%;
+        margin-left: auto;
+        border-left: none;
+        border-left: solid 1px #fff;
+    }
+
+    /*FOTO*/
+    .fondo {
+        padding-top: 71px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .fondo img {
+        width: 130px;
+        height: 130px;
+    }
+
+    .fa-whatsapp {
+        font-size: 20px;
+    }
+
+    /*MAIN*/
+    main {
+        padding: 20px;
+    }
+
+    /*SLIDER PUBLICIDADES*/
+
+    /*NOTICIAS*/
+    .audio__notas audio {
+        width: 240px;
+    }
+
+    .noticias {
+        display: flex;
+        width: 220px;
+        height: auto;
+    }
+
+    .img__noticias {
+        width: 100%;
+        height: 121px;
+    }
+
+    /*SOBRE NOSOTROS*/
+    .sobre-nos__conteiner {
+        padding-top: 71px;
+    }
+
+    /*DESCARGAR APP*/
+    .desc__conten {
+        display: contents;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 10px;
+    }
+
+    .descarga {
+        padding-top: 8px;
+        padding-bottom: 10px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .descarga a {
+        font-size: 23px;
+    }
+
+    /*Publicita nosotros*/
+    .publicita__nosotros img {
+
+        width: 100%;
+        height: auto;
+
+    }
+
+    /*FOOTER*/
+    .redes a {
+        text-decoration: none;
+
+
+    }
+
+
+}
+
+@media screen and (min-width:320px) AND (max-width:767px) {
+
+    h1 {
+        font-size: 27px;
+    }
+
+    h2 {
+        font-size: 24px;
+    }
+
+    h3 {
+        font-size: 14px;
+    }
+
+    h4 {
+        font-size: 11.8px
+    }
+
+    p {
+        font-size: 13px;
+    }
+
+    /*FONDO*/
+    .fondo {
+        background-image: linear-gradient(0deg,
+                rgba(0, 0, 0, 0.5),
+                rgba(0, 0, 0, 0.5)), url(../assets/img/iglesia-767px.webp);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+        background-position: center center;
+    }
+
+    .fondo img {
+        width: 110px;
+        height: 110px;
+    }
+
+    /*MAIN*/
+    main {
+        padding: 10px;
+    }
+
+    /*PUBLICIDADES*/
+    .publicidades__conteiner {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 10px;
+        gap: 2px;
+    }
+
+    .slider-frame {
+        width: 50%;
+        height: auto;
+
+    }
+
+    /*NOTICIAS*/
+    .noticias__conteiner {
+        justify-content: center;
+        align-items: center;
+    }
+
+    .audio__notas audio {
+        width: 290px;
+    }
+
+    .noticias {
+        margin: 10px 0px;
+        display: flex;
+        width: 355px;
+    }
+
+    .img__noticias {
+        width: 100%;
+        height: 192px;
+    }
+
+    .noticias_contenido p {
+        font-size: 11px;
+    }
+
+    .sobre-nos__conteiner {
+
+        padding-top: 71px;
+        margin: 10px 20px;
+    }
+
+    /*FOOTER*/
+    .redes a {
+
+        padding-right: 18px;
+    }
+
+    #copy {
+        font-size: 9.1px;
+    }
+}
+
+
+@media screen and (min-width:320px) and (max-width:374px) {
+    h1 {
+        font-size: 22px;
+    }
+
+    h2 {
+        font-size: 21px;
+    }
+
+    h3 {
+        font-size: 12px;
+    }
+
+    h4 {
+        font-size: 10px
+    }
+
+    h5 {
+        font-size: 7px;
+        font-weight: 1px
+    }
+
+    .fa-whatsapp {
+        font-size: 18px;
+    }
+
+    .noticias {
+        display: flex;
+        width: 300px;
+    }
+
+    .img__noticias {
+        width: 100%;
+        height: 192px;
+    }
+
+    /*FOOTER*/
+
+}
