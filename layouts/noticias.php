@@ -5,11 +5,10 @@
         <img class="img__noticias" src="./resources/assets/img/noticias/juan-mendoza-brutal.webp" alt="juan-mendoza-" undownload />
         <div class="noticias_contenido">
             <h3>Maratón en el kempes</h3>
-            <h5>27 de octubre de 2023</h5>
+            <h5>06 de Noviembre de 2023</h5>
             <p>
                 Hoy se corrió en el estadio del kempes una maratón OCR(Competencia de obstáculos)
                 Donde nuestro representante Juan Mendoza corrío 4km en categoría recreativa donde logró llevarse el puesto número 6.
-                <br /><a href="https://www.facebook.com/comunitaria.laplaza.9/videos/639194231712964?locale=es_LA" target="_blank">Click Aquí</a>
             </p>
         </div>
     </div>
