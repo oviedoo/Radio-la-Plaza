@@ -13,6 +13,31 @@
         </div>
     </div>
 
+    <div class="noticias">
+        <img class="img__noticias" src="./resources/assets/img/noticias/Milo.webp" alt="milo-y-sus-padres" undownload />
+        <div class="noticias_contenido">
+            <h3>Gran campeonato de fútbol relámpago a beneficio</h3>
+            <h5> 05 de Noviembre de 2023</h5>
+            <p>
+                Los padres de Milo van a estar organizando un campeonato de fútbol a beneficio para solventar gastos de una operación que necesita su hijo Milo.
+                Dicho campeonato se realizará el día 02/12/2023 en el club social y deportivo Santa Elena.
+                <br>
+                <a href="https://wa.me/+543515224942" target="_blank" title="Número de WhatsApp">ANOTÁ a tu equipo</a>
+                <a href="https://www.facebook.com/comunitaria.laplaza.9/videos/1533432194073525?locale=es_LA" target="_blank">Click Aquí para ver la entrevista</a>
+            </p>
+        </div>
+    </div>
+
+    <div class="noticias">
+        <img class="img__noticias" src="./resources/assets/img/noticias/AFIT-Final.webp" alt="AFIT-Final" undownload />
+        <div class="noticias_contenido">
+            <h3>AFIT feminino clasificó a la final</h3>
+            <h5>05 de Noviembre de 2023</h5>
+            <p>
+                El fútbol femenino de AFIT se clasificó a la final de la liga de ischilin. Felicitaciones a todas las chicas y al cuerpo técnico, Vamos por más!.
+            </p>
+        </div>
+    </div>
 
     <div class="noticias">
         <img class="img__noticias" src="./resources/assets/img/noticias/riquelme.webp" alt="riquelme" undownload />
