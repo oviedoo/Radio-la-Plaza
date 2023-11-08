@@ -22,7 +22,7 @@
                 Los padres de Milo van a estar organizando un campeonato de fútbol a beneficio para solventar gastos de una operación que necesita su hijo Milo.
                 Dicho campeonato se realizará el día 02/12/2023 en el club social y deportivo Santa Elena.
                 <br>
-                <a href="https://wa.me/+543515224942" target="_blank" title="Número de WhatsApp">ANOTÁ a tu equipo</a>
+                <a href="https://wa.link/lp458h" target="_blank" title="Número de WhatsApp">ANOTÁ a tu equipo</a>
                 <a href="https://www.facebook.com/comunitaria.laplaza.9/videos/1533432194073525?locale=es_LA" target="_blank">Click Aquí para ver la entrevista</a>
             </p>
         </div>

@@ -39,7 +39,7 @@
 <body>
 
     <?php
-    include('./layouts/header.php');
+    include('./resources/views/layouts/header.php');
     ?>
 
     <!--Fondo-->
@@ -65,22 +65,22 @@
     <main>
 
         <?php
-        include('./layouts/publicidades.php');
+        include('./resources/views/layouts/publicidades.php');
         ?>
         <div id="main">
             <?php
-            include('./layouts/noticias.php');
+            include('./resources/views/layouts/noticias.php');
             ?>
         </div>
 
         <?php
-        include('./layouts/publicidades2.php');
+        include('./resources/views/layouts/publicidades2.php');
         ?>
 
     </main>
 
     <?php
-    include('./layouts/footer.php');
+    include('./resources/views/layouts/footer.php');
     ?>
 
 
