@@ -29,7 +29,7 @@
     </div>
 
     <div class="noticias">
-        <img class="img__noticias" src="./resources/assets/img/noticias/AFIT-Final.webp" alt="AFIT-Final" undownload />
+        <img class="img__noticias" src="./resources/assets/img/noticias/AFIT-Final-Ischilin.webp" alt="AFIT-Final" undownload />
         <div class="noticias_contenido">
             <h3>AFIT feminino clasificó a la final</h3>
             <h5>05 de Noviembre de 2023</h5>
