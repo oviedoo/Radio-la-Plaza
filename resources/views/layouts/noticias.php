@@ -1,5 +1,15 @@
 <!--NOTICIAS-->
 <section class="noticias__conteiner" id="noticias">
+    <div class="noticias">
+        <img class="img__noticias" src="./resources/assets/img/noticias/AFIT-201415.webp" alt="AFIT-CAT-2014-2015"" undownload />
+        <div class=" noticias-contenido">
+        <h3>AFIT 2014/15 Campeones</h3>
+        <h5>11 de Noviembre de 2023</h5>
+        <p>
+            Nuestros niños de AFIT viajaron hasta la ciudad de CARLOS PAZ con la ilusión de jugar y divertirse y no solo lograron eso,fue mucho más trajeron la victoria a nuestro pueblo.
+        </p>
+    </div>
+    </div>
 
     <div class="noticias">
         <img class="img__noticias" src="./resources/assets/img/noticias/juan-mendoza-brutal.webp" alt="juan-mendoza-" undownload />
