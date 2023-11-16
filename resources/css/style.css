@@ -436,6 +436,7 @@ footer {
 }
 
 #copy {
+    display: flex;
     font-size: 11px;
     text-align: center;
     color: var(--color-gris);

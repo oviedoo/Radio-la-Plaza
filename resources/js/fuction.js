@@ -54,3 +54,11 @@
     });
   });
 });
+function yearAgo() {
+  const d = new Date();
+  const n = d.getFullYear();
+
+  document.getElementById("yearAgo").innerText = n;
+}
+
+yearAgo();
