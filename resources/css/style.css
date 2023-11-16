@@ -340,17 +340,17 @@ main {
     height: 200px;
 }
 
-.noticias_contenido p {
+.noticias-contenido p {
     font-size: 13px;
     color: var(--color-text);
 }
 
-.noticias_contenido h3:hover {
+.noticias-contenido h3:hover {
     color: var(--color-rojo);
     cursor: pointer;
 }
 
-.noticias_contenido h5 {
+.noticias-contenido h5 {
     color: #54595f;
 
 }
@@ -729,7 +729,7 @@ footer {
         height: 192px;
     }
 
-    .noticias_contenido p {
+    .noticias-contenido p {
         font-size: 11px;
     }
 

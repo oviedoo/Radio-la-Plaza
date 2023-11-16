@@ -3,7 +3,7 @@
 
     <div class="noticias">
         <img class="img__noticias" src="./resources/assets/img/noticias/juan-mendoza-brutal.webp" alt="juan-mendoza-" undownload />
-        <div class="noticias_contenido">
+        <div class="noticias-contenido">
             <h3>Maratón en el kempes</h3>
             <h5>06 de Noviembre de 2023</h5>
             <p>
@@ -15,7 +15,7 @@
 
     <div class="noticias">
         <img class="img__noticias" src="./resources/assets/img/noticias/Milo.webp" alt="milo-y-sus-padres" undownload />
-        <div class="noticias_contenido">
+        <div class="noticias-contenido">
             <h3>Gran campeonato de fútbol relámpago a beneficio</h3>
             <h5> 05 de Noviembre de 2023</h5>
             <p>
@@ -30,7 +30,7 @@
 
     <div class="noticias">
         <img class="img__noticias" src="./resources/assets/img/noticias/AFIT-Final-Ischilin.webp" alt="AFIT-Final" undownload />
-        <div class="noticias_contenido">
+        <div class="noticias-contenido">
             <h3>AFIT feminino clasificó a la final</h3>
             <h5>05 de Noviembre de 2023</h5>
             <p>
@@ -41,7 +41,7 @@
 
     <div class="noticias">
         <img class="img__noticias" src="./resources/assets/img/noticias/riquelme.webp" alt="riquelme" undownload />
-        <div class="noticias_contenido">
+        <div class="noticias-contenido">
             <h3>Lo que la gente siente</h3>
             <h5>27 de octubre de 2023</h5>
             <p>
@@ -54,7 +54,7 @@
 
     <div class="noticias">
         <img class="img__noticias" src="./resources/assets/img/noticias/candidatos-debate-2023.webp" alt="elecciones-2023" undownload />
-        <div class="noticias_contenido">
+        <div class="noticias-contenido">
             <h3>Elecciones presidencial 2023</h3>
             <h5>22 de octubre de 2023</h5>
             <p>Los resultados en San Francisco del Chañar
@@ -65,7 +65,7 @@
     </div>
     <div class="noticias">
         <img class="img__noticias" src="./resources/assets/img/noticias/nene_ataide.webp" alt="nene-ataide" undownload />
-        <div class="noticias_contenido">
+        <div class="noticias-contenido">
             <h3>Lo que la gente siente</h3>
             <h5>20 de octubre de 2023</h5>
             <p>
@@ -75,7 +75,7 @@
     </div>
     <div class="noticias">
         <img class="img__noticias" src="./resources/assets/img/noticias/AFIT.webp" alt="afit-femenino" undownload>
-        <div class="noticias_contenido">
+        <div class="noticias-contenido">
             <h3>AFIT feminino clasificó a cuartos de final</h3>
             <h5>24 de septiembre de 2023</h5>
             <p>AFIT femenino se ubicó en el primer lugar de su zona y clasificó a cuartos de la liga de
@@ -85,7 +85,7 @@
 
     <div class="noticias">
         <img class="img__noticias" src="./resources/assets/img/noticias/franciscana-equipo.webp" alt="equipo-fútbol-la-Franciscana" undownload>
-        <div class="noticias_contenido">
+        <div class="noticias-contenido">
             <h3>La Franciscana se clasificó a cuartos de final</h3>
             <h5>24 de septiembre de 2023</h5>
             <p>En el día de la fecha la franciscana ganó su último partido por 5 a 1 contra el club social
@@ -96,7 +96,7 @@
 
     <div class="noticias">
         <img class="img__noticias" src="./resources/assets/img/noticias/sebastian-argañaraz.webp" alt="sebastian-argañaraz" undownload />
-        <div class="noticias_contenido">
+        <div class="noticias-contenido">
             <h3>Lo que la gente siente</h3>
             <h5>1 de septiembre de 2023</h5>
             <p>
@@ -107,7 +107,7 @@
 
     <div class="noticias">
         <img class="img__noticias" src="./resources/assets/img/noticias/voley.webp" alt="equipo-voley-de-chañar" undownload>
-        <div class="noticias_contenido">
+        <div class="noticias-contenido">
             <h3>Equipo de vóley a instancia provincial </h3>
             <h5>31 de agosto de 2023</h5>
             <p>El equipo de vóley de la escuela técnica Ipetym n°63 de San Francisco del Chañar, pasó a la
@@ -120,7 +120,7 @@
 
     <div class="noticias">
         <img class="img__noticias" src="./resources/assets/img/noticias/equipo-femenino-RS-campeonas.webp" alt="equipo-fútbol-de-rio-seco" undownload>
-        <div class="noticias_contenido">
+        <div class="noticias-contenido">
             <h3>Campeonas en fútbol de la liga del norte</h3>
             <h5>28 de agosto de 2023</h5>
             <p>El equipo femenino de los cañoncitos campeonas en la final de la liga del norte, le ganaron por
@@ -133,7 +133,7 @@
 
     <div class="noticias">
         <img class="img__noticias" src="./resources/assets/img/noticias/nadia-lucas.webp" alt="Nadia-Lucas" undownload />
-        <div class="noticias_contenido">
+        <div class="noticias-contenido">
             <h3>Todos con Nadia!!</h3>
             <h5>22 de agosto de 2023</h5>
             <p>
@@ -149,7 +149,7 @@
 
     <div class="noticias">
         <img class="img__noticias" src="./resources/assets/img/noticias/arbitro-agredidido.webp" alt="árbitro-agredido" undownload />
-        <div class="noticias_contenido">
+        <div class="noticias-contenido">
             <h3>Nota al árbitro agredido</h3>
             <h5>21 de agosto de 2023</h5>
             <div class="audio__notas">
@@ -172,7 +172,7 @@
 
     <div class="noticias">
         <img class="img__noticias" src="./resources/assets/img/noticias/agresion-arbitro-cordoba.webp" alt="agresion-arbitro-cordoba" undownload />
-        <div class="noticias_contenido">
+        <div class="noticias-contenido">
             <h3>Brutal agresión a un árbitro en San Francisco del Chañar</h3>
             <h5>20 de agosto de 2023</h5>
             <p>
@@ -188,7 +188,7 @@
 
     <div class="noticias">
         <img class="img__noticias" src="./resources/assets/img/noticias/chacho.webp" alt="chacho-vivas" undownload />
-        <div class="noticias_contenido">
+        <div class="noticias-contenido">
             <h3>Lo que la gente siente</h3>
             <h5>11 de agosto de 2023</h5>
             <p>
@@ -199,7 +199,7 @@
 
     <div class="noticias">
         <img class="img__noticias" src="./resources/assets/img/noticias/Maratón.webp" alt="foto-grupal-de-maratón" undownload />
-        <div class="noticias_contenido">
+        <div class="noticias-contenido">
             <h3>Maratón en San Francisco del Chañar</h3>
             <h5>6 de agosto de 2023</h5>
             <p>
@@ -212,7 +212,7 @@
     <div class="noticias">
         <img class="img__noticias" src="./resources/assets/img/noticias/MaestroGomez.webp" alt="maestro-gomez" undownload />
 
-        <div class="noticias_contenido">
+        <div class="noticias-contenido">
             <h3>Lo que la gente siente</h3>
             <h5>19 de Julio de 2023</h5>
             <p>
@@ -226,7 +226,7 @@
     <div class="noticias">
         <img class="img__noticias" src="./resources/assets/img/noticias/marioy luli.webp" alt="mario-aventuroso-y-lucia-montes" undownload />
 
-        <div class="noticias_contenido">
+        <div class="noticias-contenido">
             <h3>Podcasts "No estás solo"</h3>
             <h5>18 de Julio de 2023</h5>
             <p>
