@@ -32,7 +32,7 @@
         <h3>Javier Milei es el nuevo presidente de la nación</h3>
         <h5>19 de Noviembre de 2023</h5>
         <p>
-            Les contamos los resultados de las elecciones en nuestro pueblo y en nuestro departamento.
+            Los resultados de las elecciones en nuestro pueblo y en nuestro departamento.
             <br>SAN FCO DEL CHAÑAR: <b>JAVIER MILEI 1090</b>, <b>SERGIO MASSA 928</b>.
             <br>DEPARTAMENTO SOBREMONTE: <b>JAVIER MILEI 1471</b>, <b>SERGIO MASSA 1290</b>.
         </p>
