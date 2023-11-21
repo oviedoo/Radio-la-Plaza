@@ -64,5 +64,3 @@ function yearAgo() {
 }
 
 yearAgo();
-
-// MOSTRAR Y OCULTRAR NOTICIAS

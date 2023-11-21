@@ -287,7 +287,6 @@
 
     <div class="noticias">
         <img class="img__noticias" src="./resources/assets/img/noticias/marioy luli.webp" alt="mario-aventuroso-y-lucia-montes" undownload />
-
         <div class="noticias-contenido">
             <h3>Podcasts "No estás solo"</h3>
             <h5>18 de Julio de 2023</h5>
@@ -298,10 +297,61 @@
                 escuchar los podcast.
             </p>
         </div>
-
-
     </div>
 
 
-
 </section>
+
+<div class="conteiner">
+    <button id="verMas">Ver más</button>
+</div>
+
+
+
+<style>
+    .noticias:not(:nth-child(-n+8)) {
+        display: none;
+    }
+
+    .conteiner {
+        display: flex;
+        justify-content: flex-end;
+        margin: 10px
+    }
+
+    #verMas {
+        color: #fff;
+        background-color: #e20002;
+        padding: 3px;
+        border-radius: 5px;
+        border-color: #e20002;
+    }
+
+    #verMas:hover {
+        transition: 2s;
+        background-color: #e20001;
+        cursor: pointer;
+    }
+</style>
+
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        // Obtener elementos de noticias
+        const noticias = document.querySelectorAll(".noticias");
+
+        // Obtener el botón "Ver más"
+        const verMasButton = document.getElementById("verMas");
+
+        // Manejar el clic en el botón "Ver más"
+        verMasButton.addEventListener("click", function() {
+            // Mostrar las siguientes noticias
+            for (let i = 8; i < noticias.length; i++) {
+                noticias[i].style.display = "block";
+            }
+
+            // Ocultar el botón "Ver más" después de mostrar todas las noticias
+            verMasButton.style.display = "none";
+        });
+    });
+</script>
