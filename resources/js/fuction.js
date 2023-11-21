@@ -54,6 +54,8 @@
     });
   });
 });
+
+//AÑO ACTUAL
 function yearAgo() {
   const d = new Date();
   const n = d.getFullYear();
@@ -62,3 +64,5 @@ function yearAgo() {
 }
 
 yearAgo();
+
+// MOSTRAR Y OCULTRAR NOTICIAS

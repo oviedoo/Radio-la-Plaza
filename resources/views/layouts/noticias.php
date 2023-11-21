@@ -1,6 +1,56 @@
 <!--NOTICIAS-->
 <section class="noticias__conteiner" id="noticias">
     <div class="noticias">
+        <img class="img__noticias" src="./resources/assets/img/laplaza.webp" alt="royer-herrera"" undownload />
+        <div class=" noticias-contenido">
+        <h3>Todos con Royer Herrera</h3>
+        <h5>20 de Noviembre de 2023</h5>
+        <p>
+            Royer esta con tratamientos de quimios durante una semana en la que estará en Córdoba y necesita colaboracion para cubrir gastos.
+            <br> <b>CBU: 0200328111000001536812</b>
+            <br /><a href="https://www.facebook.com/comunitaria.laplaza.9/videos/7377159578962183?locale=es_LA" target="_blank">Click Aquí</a>
+        </p>
+    </div>
+    </div>
+
+    <div class="noticias">
+        <img class="img__noticias" src="./resources/assets/img/noticias/raul-arregui.webp" alt="raul-arregui"" undownload />
+        <div class=" noticias-contenido">
+        <h3>El tiempo pasa y las secuelas son grandes</h3>
+        <h5>20 de Noviembre de 2023</h5>
+        <p>
+            Raul Arregui y su flia vieron el infierno de cerca, el fuego llegó hasta la puerta de su casa y pudieron sobrevivir para contarlo.
+            <br /><a href="https://www.facebook.com/comunitaria.laplaza.9/videos/1659460161208672?locale=es_LA" target="_blank">Click Aquí</a>
+        </p>
+    </div>
+    </div>
+
+
+    <div class="noticias">
+        <img class="img__noticias" src="./resources/assets/img/noticias/Javier-Milei-Presidente.webp" alt="Javier-Milei-Presidente.webp"" undownload />
+        <div class=" noticias-contenido">
+        <h3>Javier Milei es el nuevo presidente de la nación</h3>
+        <h5>19 de Noviembre de 2023</h5>
+        <p>
+            Les contamos los resultados de las elecciones en nuestro pueblo y en nuestro departamento. SAN FCO DEL CHAÑAR: <b>JAVIER MILEI 1090</b>, <b>SERGIO MASSA 928</b>.
+            <br>DEPARTAMENTO SOBREMONTE: <b>JAVIER MILEI 1471</b>, <b>SERGIO MASSA 1290</b>.
+        </p>
+    </div>
+    </div>
+
+
+    <div class="noticias">
+        <img class="img__noticias" src="./resources/assets/img/noticias/ersa.webp" alt="ersa"" undownload />
+        <div class=" noticias-contenido">
+        <h3>ERSA SFCO del Chañar</h3>
+        <h5>16 de Noviembre de 2023</h5>
+        <p>
+            Ersa informa que el coche de <b>6:30 a Córdoba y el de 10:45 de Córdoba a Chañar</b> no estarán disponibles hasta próximo aviso.
+        </p>
+    </div>
+    </div>
+
+    <div class="noticias">
         <img class="img__noticias" src="./resources/assets/img/noticias/AFIT-201415.webp" alt="AFIT-CAT-2014-2015"" undownload />
         <div class=" noticias-contenido">
         <h3>AFIT 2014/15 Campeones</h3>
@@ -10,6 +60,7 @@
         </p>
     </div>
     </div>
+
 
     <div class="noticias">
         <img class="img__noticias" src="./resources/assets/img/noticias/juan-mendoza-brutal.webp" alt="juan-mendoza-" undownload />
@@ -246,6 +297,10 @@
                 escuchar los podcast.
             </p>
         </div>
+
+
     </div>
-    </div>
+
+
+
 </section>
