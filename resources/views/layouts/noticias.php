@@ -1,16 +1,16 @@
 <!--NOTICIAS-->
 <section class="noticias__conteiner" id="noticias">
     <div class="noticias">
-        <img class="img__noticias" src="./resources/assets/img/laplaza.webp" alt="royer-herrera"" undownload />
+        <img class="img__noticias" src="./resources/assets/img/noticias/royer-herrera.png" alt="royer-herrera" undownload />
         <div class=" noticias-contenido">
-        <h3>Todos con Royer Herrera</h3>
-        <h5>20 de Noviembre de 2023</h5>
-        <p>
-            Royer esta con tratamientos de quimios durante una semana en la que estará en Córdoba y necesita colaboracion para cubrir gastos.
-            <br> <b>CBU: 0200328111000001536812</b>
-            <br /><a href="https://www.facebook.com/comunitaria.laplaza.9/videos/7377159578962183?locale=es_LA" target="_blank">Click Aquí</a>
-        </p>
-    </div>
+            <h3>Todos con Royer Herrera</h3>
+            <h5>20 de Noviembre de 2023</h5>
+            <p>
+                Royer esta con tratamientos de quimios durante una semana en la que estará en Córdoba y necesita colaboracion para cubrir gastos.
+                <br> <b>CBU: 0200328111000001536812</b>
+                <br /><a href="https://www.facebook.com/comunitaria.laplaza.9/videos/7377159578962183?locale=es_LA" target="_blank">Click Aquí</a>
+            </p>
+        </div>
     </div>
 
     <div class="noticias">
@@ -32,7 +32,8 @@
         <h3>Javier Milei es el nuevo presidente de la nación</h3>
         <h5>19 de Noviembre de 2023</h5>
         <p>
-            Les contamos los resultados de las elecciones en nuestro pueblo y en nuestro departamento. SAN FCO DEL CHAÑAR: <b>JAVIER MILEI 1090</b>, <b>SERGIO MASSA 928</b>.
+            Les contamos los resultados de las elecciones en nuestro pueblo y en nuestro departamento.
+            <br>SAN FCO DEL CHAÑAR: <b>JAVIER MILEI 1090</b>, <b>SERGIO MASSA 928</b>.
             <br>DEPARTAMENTO SOBREMONTE: <b>JAVIER MILEI 1471</b>, <b>SERGIO MASSA 1290</b>.
         </p>
     </div>
