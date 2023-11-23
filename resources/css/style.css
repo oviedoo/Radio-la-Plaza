@@ -472,7 +472,7 @@ footer {
 }
 
 .redes a {
-    padding-left: 15px;
+    padding-right: 15px;
     text-decoration: none;
     color: var(--color-gris2);
     font-size: 20px;
