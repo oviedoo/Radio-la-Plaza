@@ -37,11 +37,11 @@
 </head>
 
 <body>
-
-    <?php
-    include('./resources/views/layouts/header.php');
-    ?>
-
+    <header>
+        <?php
+        include('./resources/views/layouts/header.php');
+        ?>
+    </header>
     <!--Fondo-->
     <section class="fondo__conteiner">
         <div class="fondo">
@@ -61,9 +61,7 @@
             <a href="https://wa.me/+543522408620" target="_blank" class="fa-brands fa-whatsapp" title="Ir a WhatsApp" style="color: #00e676; text-decoration: none"></a>
         </div>
     </section>
-
     <main>
-
         <?php
         include('./resources/views/layouts/publicidades.php');
         ?>
@@ -72,16 +70,15 @@
             include('./resources/views/layouts/noticias.php');
             ?>
         </div>
-
         <?php
         include('./resources/views/layouts/publicidades2.php');
         ?>
-
     </main>
-
-    <?php
-    include('./resources/views/layouts/footer.php');
-    ?>
+    <footer>
+        <?php
+        include('./resources/views/layouts/footer.php');
+        ?>
+    </footer>
 
 
 
