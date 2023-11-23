@@ -37,11 +37,11 @@
 </head>
 
 <body>
-    <header>
-        <?php
-        include('./resources/views/layouts/header.php');
-        ?>
-    </header>
+
+    <?php
+    include('./resources/views/layouts/header.php');
+    ?>
+
     <!--Fondo-->
     <section class="fondo__conteiner">
         <div class="fondo">
@@ -69,18 +69,19 @@
             <?php
             include('./resources/views/layouts/noticias.php');
             ?>
+            <div class="conteiner">
+                <button id="verMas">Ver más</button>
+            </div>
+            <script src="./resources/js/fuction.js"></script>
         </div>
         <?php
         include('./resources/views/layouts/publicidades2.php');
         ?>
     </main>
-    <footer>
-        <?php
-        include('./resources/views/layouts/footer.php');
-        ?>
-    </footer>
 
-
+    <?php
+    include('./resources/views/layouts/footer.php');
+    ?>
 
 
 </body>

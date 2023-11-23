@@ -273,7 +273,6 @@
 
     <div class="noticias">
         <img class="img__noticias" src="./resources/assets/img/noticias/MaestroGomez.webp" alt="maestro-gomez" undownload />
-
         <div class="noticias-contenido">
             <h3>Lo que la gente siente</h3>
             <h5>19 de Julio de 2023</h5>
@@ -299,14 +298,7 @@
         </div>
     </div>
 
-
 </section>
-
-<div class="conteiner">
-    <button id="verMas">Ver más</button>
-</div>
-
-
 
 <style>
     .noticias:not(:nth-child(-n+8)) {
@@ -333,8 +325,6 @@
         cursor: pointer;
     }
 </style>
-
-
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Obtener elementos de noticias
