@@ -1,6 +1,30 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700&family=Sen&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
 
+.noticias:not(:nth-child(-n+8)) {
+    display: none;
+}
+
+.conteiner {
+    display: flex;
+    justify-content: flex-end;
+    margin: 10px
+}
+
+#verMas {
+    color: #fff;
+    background-color: #e20002;
+    padding: 3px;
+    border-radius: 5px;
+    border-color: #e20002;
+}
+
+#verMas:hover {
+    transition: 2s;
+    background-color: #e20001;
+    cursor: pointer;
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -368,6 +392,31 @@ main {
     height: auto;
 }
 
+/*BOTON VER MÁS*/
+.noticias:not(:nth-child(-n+8)) {
+    display: none;
+}
+
+.conteiner {
+    display: flex;
+    justify-content: flex-end;
+    margin: 10px
+}
+
+#verMas {
+    color: #fff;
+    background-color: #e20002;
+    padding: 3px;
+    border-radius: 5px;
+    border-color: #e20002;
+}
+
+#verMas:hover {
+    transition: 2s;
+    background-color: #e20001;
+    cursor: pointer;
+}
+
 /*SOBRE NOSOTROS*/
 .sobre-nos__conteiner {
     margin: 20px 0;
@@ -417,12 +466,13 @@ footer {
 
 .redes {
     display: flex;
+    align-items: center;
     justify-content: center;
     padding-bottom: 15px;
 }
 
 .redes a {
-    gap: 1px;
+    padding-left: 15px;
     text-decoration: none;
     color: var(--color-gris2);
     font-size: 20px;
@@ -435,11 +485,15 @@ footer {
 
 #copy {
     display: flex;
-    font-size: 11px;
-    text-align: center;
+    align-items: center;
+    justify-content: center;
     color: var(--color-gris);
     font-family: 'Sen', sans-serif;
     padding-bottom: 5px;
+}
+
+.text-copy {
+    font-size: 11px;
 }
 
 /*desktop*/
@@ -642,8 +696,6 @@ footer {
     /*FOOTER*/
     .redes a {
         text-decoration: none;
-
-
     }
 
 
@@ -740,11 +792,11 @@ footer {
 
     /*FOOTER*/
     .redes a {
-
-        padding-right: 18px;
+        padding-right: 17px;
     }
 
-    #copy {
+    .text-copy {
+        text-align: center;
         font-size: 9.1px;
     }
 }
@@ -788,4 +840,8 @@ footer {
 
     /*FOOTER*/
 
+
+    .text-copy {
+        font-size: 8.5px;
+    }
 }

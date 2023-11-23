@@ -84,6 +84,7 @@
     ?>
 
 
+    <script src="./resources/js/fuction.js"></script>
 </body>
 
 </html>
