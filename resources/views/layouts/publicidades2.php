@@ -36,9 +36,10 @@
 <section class="desc__conten">
     <h3 id="descargar" class="desc__text">Descarga nuestra App</h3>
     <div class="descarga">
-        <a class="fa-solid fa-download" download="RadiolaPlazaAPP" href="./resources/assets/docs/RadiolaPlazaAPP.apk"></a>
+        <a class="fa-brands fa-android" download="RadiolaPlazaAPP" href="./resources/assets/docs/RadiolaPlazaAPP.apk"></a>
     </div>
 </section>
+
 
 <!--PUBLITA CON NOSOTROS-->
 <section class="publicita__nosotros">

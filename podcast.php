@@ -11,8 +11,8 @@
 	<meta name="keywords" content="Radio Comunitaria la Plaza 91.5, San Francisco del Chañar, Cordoba, Argentina, Chañar, Radio Comunitaria la Plaza, FARCO, ONG, Comunidad, Un lugar para todos, Mario aventuroso, Radio FM" />
 	<meta name="robots" content="index, follow">
 
-	<link rel="stylesheet" type="text/css" href="./resources/css/style.css">
 	<link rel="stylesheet" type="text/css" href="./resources/css/podcast.css">
+	<link rel="stylesheet" type="text/css" href="./resources/css/style.css">
 	<!--FAVICON-->
 	<link rel="icon" href="./favicon.ico">
 
@@ -53,7 +53,7 @@
 		include('./resources/views/layouts/footer.php');
 		?>
 	</footer>
-
+	<script src="./resources/js/fuction.js"></script>
 </body>
 
 </html>

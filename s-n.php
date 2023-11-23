@@ -54,3 +54,5 @@
 		include('./resources/views/layouts/footer.php');
 		?>
 	</footer>
+	<script src="./resources/js/fuction.js"></script>
+</body>

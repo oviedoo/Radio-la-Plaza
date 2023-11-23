@@ -436,8 +436,9 @@ main {
 }
 
 .descarga a {
-    color: var(--color-rojo);
+    color: #419D51;
     font-size: 27px;
+    text-decoration: none
 }
 
 /*PUBLITA CON NOSOTROS*/
