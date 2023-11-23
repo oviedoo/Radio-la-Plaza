@@ -20,12 +20,12 @@
 </head>
 
 <body>
-	<?php
-	include('./layouts/header.php');
-	?>
+	<header>
+		<?php
+		include('./resources/views/layouts/header.php');
+		?>
 
-
-
+	</header>
 	<main>
 
 		<section id="podcast__desc">
@@ -44,17 +44,15 @@
 
 		</div>
 
-
 		<?php
-		include('./layouts/publicidades2.php');
+		include('./resources/views/layouts/publicidades2.php');
 		?>
-
 	</main>
-
-
-	<?php
-	include('./layouts/footer.php');
-	?>
+	<footer>
+		<?php
+		include('./resources/views/layouts/footer.php');
+		?>
+	</footer>
 
 </body>
 

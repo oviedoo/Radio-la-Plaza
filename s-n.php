@@ -23,9 +23,12 @@
 </head>
 
 <body>
-	<?php
-	include('./layouts/header.php');
-	?>
+	<header>
+		<?php
+		include('./resources/views/layouts/header.php');
+		?>
+	</header>
+
 	<main>
 		<div class="sobre-nos__conteiner">
 			<div id="sobre-nos" class="sobre-nos">
@@ -41,13 +44,13 @@
 			</div>
 		</div>
 		<?php
-		include('./layouts/publicidades2.php');
+		include('./resources/views/layouts/publicidades2.php');
 		?>
 
 	</main>
 
-
-	<?php
-	include('./layouts/footer.php');
-	?>
-	</header>
+	<footer>
+		<?php
+		include('./resources/views/layouts/footer.php');
+		?>
+	</footer>
