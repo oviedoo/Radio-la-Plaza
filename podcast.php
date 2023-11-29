@@ -11,8 +11,8 @@
 	<meta name="keywords" content="Radio Comunitaria la Plaza 91.5, San Francisco del Chañar, Cordoba, Argentina, Chañar, Radio Comunitaria la Plaza, FARCO, ONG, Comunidad, Un lugar para todos, Mario aventuroso, Radio FM" />
 	<meta name="robots" content="index, follow">
 
-	<link rel="stylesheet" type="text/css" href="./resources/css/podcast.css">
-	<link rel="stylesheet" type="text/css" href="./resources/css/style.css">
+	<link rel="stylesheet" type="text/css" href="./src/css/style.css">
+	<link rel="stylesheet" type="text/css" href="./src/css/podcast.css">
 	<!--FAVICON-->
 	<link rel="icon" href="./favicon.ico">
 
@@ -22,12 +22,10 @@
 <body>
 	<header>
 		<?php
-		include('./resources/views/layouts/header.php');
+		include('./src/views/layouts/header.php');
 		?>
-
 	</header>
 	<main>
-
 		<section id="podcast__desc">
 			<p> No estás solo, es un ciclo de charlas basadas en la inteligencia emocional que cada martes nos trae
 				nuestra compañera Luli Monte que nos ayuda a reflexionar sobre diversos temas <u> vinculados a las
@@ -38,22 +36,20 @@
 			<div class="section">
 				<h2 style="font-size: 20px;">Podcast 1 “La Amistad”</h2>
 				<div class="audio__podcast">
-					<audio class="aud__control" src="./resources/assets/audio/podcast/1-Podcast-Amistad-.mp3" controls loop undownload></audio>
+					<audio class="aud__control" src="./src/assets/audio/podcast/1-Podcast-Amistad-.mp3" controls loop undownload></audio>
 				</div>
 			</div>
-
 		</div>
-
 		<?php
-		include('./resources/views/layouts/publicidades2.php');
+		include('./src/views/layouts/publicidades2.php');
 		?>
 	</main>
 	<footer>
 		<?php
-		include('./resources/views/layouts/footer.php');
+		include('./src/views/layouts/footer.php');
 		?>
 	</footer>
-	<script src="./resources/js/fuction.js"></script>
+	<script src="./src/js/fuction.js"></script>
 </body>
 
 </html>

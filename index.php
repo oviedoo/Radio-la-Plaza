@@ -27,7 +27,7 @@
     <!--para que la pagina se recargue 
 	<meta  http-equiv="refresh"  content="10">
 -->
-    <link rel="stylesheet" type="text/css" href="./resources/css/style.css" />
+    <link rel="stylesheet" type="text/css" href="./src/css/style.css" />
 
     <!--FAVICON-->
     <link rel="icon" href="./favicon.ico">
@@ -39,7 +39,7 @@
 <body>
 
     <?php
-    include('./resources/views/layouts/header.php');
+    include('./src/views/layouts/header.php');
     ?>
 
     <!--Fondo-->
@@ -48,7 +48,7 @@
             <h1 class="titulo">COMUNITARIA LA PLAZA</h1>
             <h4 class="eslogan">UN LUGAR PARA TODOS</h4>
             <div class="fondo__img">
-                <img src="./resources/assets/img/laplaza.webp" alt="Logo" title="Logo de radio" />
+                <img src="./src/assets/img/laplaza.webp" alt="Logo" title="Logo de radio" />
             </div>
             <!--REPRODUCTOR DE AUDIO-->
             <div class="audio-conteiner">
@@ -63,28 +63,28 @@
     </section>
     <main>
         <?php
-        include('./resources/views/layouts/publicidades.php');
+        include('./src/views/layouts/publicidades.php');
         ?>
         <div id="main">
             <?php
-            include('./resources/views/layouts/noticias.php');
+            include('./src/views/layouts/noticias.php');
             ?>
             <div class="conteiner">
                 <button id="verMas">Ver más</button>
             </div>
-            <script src="./resources/js/fuction.js"></script>
+            <script src="./src/js/fuction.js"></script>
         </div>
         <?php
-        include('./resources/views/layouts/publicidades2.php');
+        include('./src/views/layouts/publicidades2.php');
         ?>
     </main>
 
     <?php
-    include('./resources/views/layouts/footer.php');
+    include('./src/views/layouts/footer.php');
     ?>
 
 
-    <script src="./resources/js/fuction.js"></script>
+    <script src="./src/js/fuction.js"></script>
 </body>
 
 </html>

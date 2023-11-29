@@ -15,7 +15,7 @@
 	<!--para que la pagina se recargue 
 	<meta  http-equiv="refresh"  content="10">
 -->
-	<link rel="stylesheet" type="text/css" href="./resources/css/style.css">
+	<link rel="stylesheet" type="text/css" href="./src/css/style.css">
 	<!--FAVICON-->
 	<link rel="icon" href="./favicon.ico">
 
@@ -25,10 +25,9 @@
 <body>
 	<header>
 		<?php
-		include('./resources/views/layouts/header.php');
+		include('./src/views/layouts/header.php');
 		?>
 	</header>
-
 	<main>
 		<div class="sobre-nos__conteiner">
 			<div id="sobre-nos" class="sobre-nos">
@@ -44,15 +43,13 @@
 			</div>
 		</div>
 		<?php
-		include('./resources/views/layouts/publicidades2.php');
+		include('./src/views/layouts/publicidades2.php');
 		?>
-
 	</main>
-
 	<footer>
 		<?php
-		include('./resources/views/layouts/footer.php');
+		include('./src/views/layouts/footer.php');
 		?>
 	</footer>
-	<script src="./resources/js/fuction.js"></script>
+	<script src="./src/js/fuction.js"></script>
 </body>

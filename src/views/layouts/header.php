@@ -3,7 +3,7 @@
     <nav class="menu">
         <section class="menu__container">
             <div class="menu__logo">
-                <a href="./index.php"><img src="./resources/assets/img/laplaza.webp" id="logo_bars" /></a>
+                <a href="./index.php"><img src="./src/assets/img/laplaza.webp" id="logo_bars" /></a>
             </div>
             <ul class="menu__links">
                 <li class="menu__item">
@@ -11,7 +11,7 @@
                 </li>
 
                 <li class="menu__item menu__item--show">
-                    <a href="#" class="menu__link">Sobre Nosotros<img src="./resources/assets/img/svg/arrow.svg" class="menu__arrow" /></a>
+                    <a href="#" class="menu__link">Sobre Nosotros<img src="./src/assets/img/svg/arrow.svg" class="menu__arrow" /></a>
                     <ul class="menu__nesting">
                         <li class="menu__inside">
                             <a href="#main" class="menu__link menu__link--inside">Noticias</a>
@@ -26,7 +26,7 @@
                 </li>
 
                 <li class="menu__item menu__item--show">
-                    <a href="#" class="menu__link">Dirección <img src="./resources/assets/img/svg/arrow.svg" class="menu__arrow" /></a>
+                    <a href="#" class="menu__link">Dirección <img src="./src/assets/img/svg/arrow.svg" class="menu__arrow" /></a>
 
                     <ul class="menu__nesting">
                         <li class="menu__inside">
@@ -38,7 +38,7 @@
                 </li>
 
                 <li class="menu__item menu__item--show">
-                    <a href="#" class="menu__link">Contacto <img src="./resources/assets/img/svg/arrow.svg" class="menu__arrow" /></a>
+                    <a href="#" class="menu__link">Contacto <img src="./src/assets/img/svg/arrow.svg" class="menu__arrow" /></a>
                     <ul class="menu__nesting">
                         <li class="menu__inside">
                             <a href="https://wa.me/+543522408620" target="_blank" class="menu__link menu__link--inside">Número Celular: +54 3522-408620</a>
@@ -48,10 +48,10 @@
             </ul>
 
             <div class="menu__hamburguer">
-                <img src="./resources/assets/img/svg/menu.svg" class="menu__img" />
+                <img src="./src/assets/img/svg/menu.svg" class="menu__img" />
             </div>
         </section>
     </nav>
     <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
-    <script src="./resources/js/fuction.js"></script>
+    <script src="./src/js/fuction.js"></script>
 </header>

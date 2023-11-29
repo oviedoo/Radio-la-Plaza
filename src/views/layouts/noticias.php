@@ -1,7 +1,7 @@
 <!--NOTICIAS-->
 <section class="noticias__conteiner" id="noticias">
     <div class="noticias">
-        <img class="img__noticias" src="./resources/assets/img/noticias/royer-herrera.png" alt="royer-herrera" undownload />
+        <img class="img__noticias" src="./src/assets/img/noticias/royer-herrera.png" alt="royer-herrera" undownload />
         <div class=" noticias-contenido">
             <h3>Todos con Royer Herrera</h3>
             <h5>20 de Noviembre de 2023</h5>
@@ -14,7 +14,7 @@
     </div>
 
     <div class="noticias">
-        <img class="img__noticias" src="./resources/assets/img/noticias/raul-arregui.webp" alt="raul-arregui"" undownload />
+        <img class="img__noticias" src="./src/assets/img/noticias/raul-arregui.webp" alt="raul-arregui"" undownload />
         <div class=" noticias-contenido">
         <h3>El tiempo pasa y las secuelas son grandes</h3>
         <h5>20 de Noviembre de 2023</h5>
@@ -27,7 +27,7 @@
 
 
     <div class="noticias">
-        <img class="img__noticias" src="./resources/assets/img/noticias/Javier-Milei-Presidente.webp" alt="Javier-Milei-Presidente.webp"" undownload />
+        <img class="img__noticias" src="./src/assets/img/noticias/Javier-Milei-Presidente.webp" alt="Javier-Milei-Presidente.webp"" undownload />
         <div class=" noticias-contenido">
         <h3>Javier Milei es el nuevo presidente de la nación</h3>
         <h5>19 de Noviembre de 2023</h5>
@@ -41,7 +41,7 @@
 
 
     <div class="noticias">
-        <img class="img__noticias" src="./resources/assets/img/noticias/ersa.webp" alt="ersa"" undownload />
+        <img class="img__noticias" src="./src/assets/img/noticias/ersa.webp" alt="ersa"" undownload />
         <div class=" noticias-contenido">
         <h3>ERSA SFCO del Chañar</h3>
         <h5>16 de Noviembre de 2023</h5>
@@ -52,7 +52,7 @@
     </div>
 
     <div class="noticias">
-        <img class="img__noticias" src="./resources/assets/img/noticias/AFIT-201415.webp" alt="AFIT-CAT-2014-2015"" undownload />
+        <img class="img__noticias" src="./src/assets/img/noticias/AFIT-201415.webp" alt="AFIT-CAT-2014-2015"" undownload />
         <div class=" noticias-contenido">
         <h3>AFIT 2014/15 Campeones</h3>
         <h5>11 de Noviembre de 2023</h5>
@@ -64,7 +64,7 @@
 
 
     <div class="noticias">
-        <img class="img__noticias" src="./resources/assets/img/noticias/juan-mendoza-brutal.webp" alt="juan-mendoza-" undownload />
+        <img class="img__noticias" src="./src/assets/img/noticias/juan-mendoza-brutal.webp" alt="juan-mendoza-" undownload />
         <div class="noticias-contenido">
             <h3>Maratón en el kempes</h3>
             <h5>06 de Noviembre de 2023</h5>
@@ -76,7 +76,7 @@
     </div>
 
     <div class="noticias">
-        <img class="img__noticias" src="./resources/assets/img/noticias/Milo.webp" alt="milo-y-sus-padres" undownload />
+        <img class="img__noticias" src="./src/assets/img/noticias/Milo.webp" alt="milo-y-sus-padres" undownload />
         <div class="noticias-contenido">
             <h3>Gran campeonato de fútbol relámpago a beneficio</h3>
             <h5> 05 de Noviembre de 2023</h5>
@@ -91,7 +91,7 @@
     </div>
 
     <div class="noticias">
-        <img class="img__noticias" src="./resources/assets/img/noticias/AFIT-Final-Ischilin.webp" alt="AFIT-Final" undownload />
+        <img class="img__noticias" src="./src/assets/img/noticias/AFIT-Final-Ischilin.webp" alt="AFIT-Final" undownload />
         <div class="noticias-contenido">
             <h3>AFIT feminino clasificó a la final</h3>
             <h5>05 de Noviembre de 2023</h5>
@@ -102,7 +102,7 @@
     </div>
 
     <div class="noticias">
-        <img class="img__noticias" src="./resources/assets/img/noticias/riquelme.webp" alt="riquelme" undownload />
+        <img class="img__noticias" src="./src/assets/img/noticias/riquelme.webp" alt="riquelme" undownload />
         <div class="noticias-contenido">
             <h3>Lo que la gente siente</h3>
             <h5>27 de octubre de 2023</h5>
@@ -115,7 +115,7 @@
 
 
     <div class="noticias">
-        <img class="img__noticias" src="./resources/assets/img/noticias/candidatos-debate-2023.webp" alt="elecciones-2023" undownload />
+        <img class="img__noticias" src="./src/assets/img/noticias/candidatos-debate-2023.webp" alt="elecciones-2023" undownload />
         <div class="noticias-contenido">
             <h3>Elecciones presidencial 2023</h3>
             <h5>22 de octubre de 2023</h5>
@@ -126,7 +126,7 @@
         </div>
     </div>
     <div class="noticias">
-        <img class="img__noticias" src="./resources/assets/img/noticias/nene_ataide.webp" alt="nene-ataide" undownload />
+        <img class="img__noticias" src="./src/assets/img/noticias/nene_ataide.webp" alt="nene-ataide" undownload />
         <div class="noticias-contenido">
             <h3>Lo que la gente siente</h3>
             <h5>20 de octubre de 2023</h5>
@@ -136,7 +136,7 @@
         </div>
     </div>
     <div class="noticias">
-        <img class="img__noticias" src="./resources/assets/img/noticias/AFIT.webp" alt="afit-femenino" undownload>
+        <img class="img__noticias" src="./src/assets/img/noticias/AFIT.webp" alt="afit-femenino" undownload>
         <div class="noticias-contenido">
             <h3>AFIT feminino clasificó a cuartos de final</h3>
             <h5>24 de septiembre de 2023</h5>
@@ -146,7 +146,7 @@
     </div>
 
     <div class="noticias">
-        <img class="img__noticias" src="./resources/assets/img/noticias/franciscana-equipo.webp" alt="equipo-fútbol-la-Franciscana" undownload>
+        <img class="img__noticias" src="./src/assets/img/noticias/franciscana-equipo.webp" alt="equipo-fútbol-la-Franciscana" undownload>
         <div class="noticias-contenido">
             <h3>La Franciscana se clasificó a cuartos de final</h3>
             <h5>24 de septiembre de 2023</h5>
@@ -157,7 +157,7 @@
     </div>
 
     <div class="noticias">
-        <img class="img__noticias" src="./resources/assets/img/noticias/sebastian-argañaraz.webp" alt="sebastian-argañaraz" undownload />
+        <img class="img__noticias" src="./src/assets/img/noticias/sebastian-argañaraz.webp" alt="sebastian-argañaraz" undownload />
         <div class="noticias-contenido">
             <h3>Lo que la gente siente</h3>
             <h5>1 de septiembre de 2023</h5>
@@ -168,7 +168,7 @@
     </div>
 
     <div class="noticias">
-        <img class="img__noticias" src="./resources/assets/img/noticias/voley.webp" alt="equipo-voley-de-chañar" undownload>
+        <img class="img__noticias" src="./src/assets/img/noticias/voley.webp" alt="equipo-voley-de-chañar" undownload>
         <div class="noticias-contenido">
             <h3>Equipo de vóley a instancia provincial </h3>
             <h5>31 de agosto de 2023</h5>
@@ -181,7 +181,7 @@
     </div>
 
     <div class="noticias">
-        <img class="img__noticias" src="./resources/assets/img/noticias/equipo-femenino-RS-campeonas.webp" alt="equipo-fútbol-de-rio-seco" undownload>
+        <img class="img__noticias" src="./src/assets/img/noticias/equipo-femenino-RS-campeonas.webp" alt="equipo-fútbol-de-rio-seco" undownload>
         <div class="noticias-contenido">
             <h3>Campeonas en fútbol de la liga del norte</h3>
             <h5>28 de agosto de 2023</h5>
@@ -194,7 +194,7 @@
     </div>
 
     <div class="noticias">
-        <img class="img__noticias" src="./resources/assets/img/noticias/nadia-lucas.webp" alt="Nadia-Lucas" undownload />
+        <img class="img__noticias" src="./src/assets/img/noticias/nadia-lucas.webp" alt="Nadia-Lucas" undownload />
         <div class="noticias-contenido">
             <h3>Todos con Nadia!!</h3>
             <h5>22 de agosto de 2023</h5>
@@ -210,30 +210,30 @@
     </div>
 
     <div class="noticias">
-        <img class="img__noticias" src="./resources/assets/img/noticias/arbitro-agredidido.webp" alt="árbitro-agredido" undownload />
+        <img class="img__noticias" src="./src/assets/img/noticias/arbitro-agredidido.webp" alt="árbitro-agredido" undownload />
         <div class="noticias-contenido">
             <h3>Nota al árbitro agredido</h3>
             <h5>21 de agosto de 2023</h5>
             <div class="audio__notas">
-                <audio class="aud__control" src="./resources/assets/audio/nota-arbrito-agredido.mp3" undownload controls loop></audio>
+                <audio class="aud__control" src="./src/assets/audio/nota-arbrito-agredido.mp3" undownload controls loop></audio>
                 <br />
                 <div class="medios__conteiner">
-                    <a href="https://www.tycsports.com/interes-general/brutal-agresion-arbitro-liga-amateur-cpordoba-id530652.html" target="_blank" class="medios"><img src="./resources/assets/img/medios/TyC_Sports.png" alt="logo-tycsports" /></a>
-                    <a href="https://eldoce.tv/deportes/video-brutal-agresion-arbitro-norte-cordoba-san-francisco-chanar-violencia-futbol_153514" target="_blank" class="medios"><img src="./resources/assets/img/medios/docetv.png" alt="logo-docetv" /></a>
-                    <a href="https://tn.com.ar/deportes/futbol/2023/08/21/video-un-arbitro-fue-agredido-en-una-liga-amateur-y-quedo-inconsciente-en-el-suelo/" target="_blank" class="medios"><img src="./resources/assets/img/medios/tnlogo.png" alt="logo-tn" /></a>
-                    <a href="https://www.lavoz.com.ar/sucesos/a-lo-zidane-la-terrible-agresion-a-un-arbitro-durante-un-partido-en-el-norte-de-cordoba/" target="_blank" class="medios"><img src="./resources/assets/img/medios/lavozogo.png" alt="logo-la-voz" /></a>
-                    <a href="https://www.lanacion.com.ar/sociedad/cordoba-un-arbitro-iba-a-expulsar-a-un-jugador-recibio-un-brutal-cabezazo-y-quedo-inconsciente-nid21082023/" target="_blank" class="medios"><img src="./resources/assets/img/medios/lanacionlogo.png" alt="logo-la-nacion" /></a>
-                    <a href="https://lmdiario.com.ar/contenido/419364/violencia-en-el-futbol-un-jugador-ataco-a-un-arbitro-durante-un-partido" target="_blank" class="medios"><img src="./resources/assets/img/medios/lmlogo.png" alt="logo-lm" /></a>
-                    <a href="https://www.ole.com.ar/informacion-general/video-brutal-agresion-jugador-referi-penarol-chana-franciscana_0_wEdB0YBKYp.html" target="_blank" class="medios"><img src="./resources/assets/img/medios/olelogo.png" alt="logo-olé" /></a>
-                    <a href="https://www.cadena3.com/noticia/siempre-juntos/video-brutal-agresion-a-un-arbitro-durante-un-partido-de-la-liga-de-ischilin_366473" target="_blank" class="medios"><img src="./resources/assets/img/medios/Cadenalogo.png" alt="logo-cadena-3" /></a>
-                    <a href="https://www.eldia.com/nota/2023-8-21-10-44-0-brutal-agresion-a-un-arbitro-mientras-se-jugaba-un-partido-en-cordoba-cabezazo-tumulto-y-detencion-deportes" target="_blank" class="medios"><img src="./resources/assets/img/medios/eldialogo.png" alt="logo-el-día" /></a>
+                    <a href="https://www.tycsports.com/interes-general/brutal-agresion-arbitro-liga-amateur-cpordoba-id530652.html" target="_blank" class="medios"><img src="./src/assets/img/medios/TyC_Sports.png" alt="logo-tycsports" /></a>
+                    <a href="https://eldoce.tv/deportes/video-brutal-agresion-arbitro-norte-cordoba-san-francisco-chanar-violencia-futbol_153514" target="_blank" class="medios"><img src="./src/assets/img/medios/docetv.png" alt="logo-docetv" /></a>
+                    <a href="https://tn.com.ar/deportes/futbol/2023/08/21/video-un-arbitro-fue-agredido-en-una-liga-amateur-y-quedo-inconsciente-en-el-suelo/" target="_blank" class="medios"><img src="./src/assets/img/medios/tnlogo.png" alt="logo-tn" /></a>
+                    <a href="https://www.lavoz.com.ar/sucesos/a-lo-zidane-la-terrible-agresion-a-un-arbitro-durante-un-partido-en-el-norte-de-cordoba/" target="_blank" class="medios"><img src="./src/assets/img/medios/lavozogo.png" alt="logo-la-voz" /></a>
+                    <a href="https://www.lanacion.com.ar/sociedad/cordoba-un-arbitro-iba-a-expulsar-a-un-jugador-recibio-un-brutal-cabezazo-y-quedo-inconsciente-nid21082023/" target="_blank" class="medios"><img src="./src/assets/img/medios/lanacionlogo.png" alt="logo-la-nacion" /></a>
+                    <a href="https://lmdiario.com.ar/contenido/419364/violencia-en-el-futbol-un-jugador-ataco-a-un-arbitro-durante-un-partido" target="_blank" class="medios"><img src="./src/assets/img/medios/lmlogo.png" alt="logo-lm" /></a>
+                    <a href="https://www.ole.com.ar/informacion-general/video-brutal-agresion-jugador-referi-penarol-chana-franciscana_0_wEdB0YBKYp.html" target="_blank" class="medios"><img src="./src/assets/img/medios/olelogo.png" alt="logo-olé" /></a>
+                    <a href="https://www.cadena3.com/noticia/siempre-juntos/video-brutal-agresion-a-un-arbitro-durante-un-partido-de-la-liga-de-ischilin_366473" target="_blank" class="medios"><img src="./src/assets/img/medios/Cadenalogo.png" alt="logo-cadena-3" /></a>
+                    <a href="https://www.eldia.com/nota/2023-8-21-10-44-0-brutal-agresion-a-un-arbitro-mientras-se-jugaba-un-partido-en-cordoba-cabezazo-tumulto-y-detencion-deportes" target="_blank" class="medios"><img src="./src/assets/img/medios/eldialogo.png" alt="logo-el-día" /></a>
                 </div>
             </div>
         </div>
     </div>
 
     <div class="noticias">
-        <img class="img__noticias" src="./resources/assets/img/noticias/agresion-arbitro-cordoba.webp" alt="agresion-arbitro-cordoba" undownload />
+        <img class="img__noticias" src="./src/assets/img/noticias/agresion-arbitro-cordoba.webp" alt="agresion-arbitro-cordoba" undownload />
         <div class="noticias-contenido">
             <h3>Brutal agresión a un árbitro en San Francisco del Chañar</h3>
             <h5>20 de agosto de 2023</h5>
@@ -243,13 +243,13 @@
                 detenido.<br /><a href="https://www.facebook.com/100059700325098/videos/977523023307931/" target="_blank">Click Aquí</a>
                 <br />
                 Mira el vídeo del momento de la agresión
-                <a href="./resources/assets/videos/video-agresion-arbitro.mp4" undownload target="_blank">Aqui</a>
+                <a href="./src/assets/videos/video-agresion-arbitro.mp4" undownload target="_blank">Aqui</a>
             </p>
         </div>
     </div>
 
     <div class="noticias">
-        <img class="img__noticias" src="./resources/assets/img/noticias/chacho.webp" alt="chacho-vivas" undownload />
+        <img class="img__noticias" src="./src/assets/img/noticias/chacho.webp" alt="chacho-vivas" undownload />
         <div class="noticias-contenido">
             <h3>Lo que la gente siente</h3>
             <h5>11 de agosto de 2023</h5>
@@ -260,7 +260,7 @@
     </div>
 
     <div class="noticias">
-        <img class="img__noticias" src="./resources/assets/img/noticias/Maratón.webp" alt="foto-grupal-de-maratón" undownload />
+        <img class="img__noticias" src="./src/assets/img/noticias/Maratón.webp" alt="foto-grupal-de-maratón" undownload />
         <div class="noticias-contenido">
             <h3>Maratón en San Francisco del Chañar</h3>
             <h5>6 de agosto de 2023</h5>
@@ -272,7 +272,7 @@
     </div>
 
     <div class="noticias">
-        <img class="img__noticias" src="./resources/assets/img/noticias/MaestroGomez.webp" alt="maestro-gomez" undownload />
+        <img class="img__noticias" src="./src/assets/img/noticias/MaestroGomez.webp" alt="maestro-gomez" undownload />
         <div class="noticias-contenido">
             <h3>Lo que la gente siente</h3>
             <h5>19 de Julio de 2023</h5>
@@ -285,7 +285,7 @@
     </div>
 
     <div class="noticias">
-        <img class="img__noticias" src="./resources/assets/img/noticias/marioy luli.webp" alt="mario-aventuroso-y-lucia-montes" undownload />
+        <img class="img__noticias" src="./src/assets/img/noticias/marioy luli.webp" alt="mario-aventuroso-y-lucia-montes" undownload />
         <div class="noticias-contenido">
             <h3>Podcasts "No estás solo"</h3>
             <h5>18 de Julio de 2023</h5>
