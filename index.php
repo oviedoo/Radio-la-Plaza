@@ -28,11 +28,8 @@
 	<meta  http-equiv="refresh"  content="10">
 -->
     <link rel="stylesheet" type="text/css" href="./src/css/style.css" />
-
     <!--FAVICON-->
     <link rel="icon" href="./favicon.ico">
-
-
     <script src="https://kit.fontawesome.com/4f535f04c7.js" crossorigin="anonymous"></script>
 </head>
 
@@ -41,26 +38,9 @@
     <?php
     include('./src/views/layouts/header.php');
     ?>
-
-    <!--Fondo-->
-    <section class="fondo__conteiner">
-        <div class="fondo">
-            <h1 class="titulo">COMUNITARIA LA PLAZA</h1>
-            <h4 class="eslogan">UN LUGAR PARA TODOS</h4>
-            <div class="fondo__img">
-                <img src="./src/assets/img/laplaza.webp" alt="Logo" title="Logo de radio" />
-            </div>
-            <!--REPRODUCTOR DE AUDIO-->
-            <div class="audio-conteiner">
-                <audio class="audio" autoplay controls loop>
-                    <source src="http://freeuk30.listen2myradio.com:4865/;" type="audio/mp3" />
-                    <source src="http://freeuk30.listen2myradio.com:4865/;" type="audio/AAC" />
-                </audio>
-            </div>
-            <h3 class="sms">Mandanos un Mensaje a nuestro WhatsApp</h3>
-            <a href="https://wa.me/+543522408620" target="_blank" class="fa-brands fa-whatsapp" title="Ir a WhatsApp" style="color: #00e676; text-decoration: none"></a>
-        </div>
-    </section>
+    <?php
+    include('./src/views/layouts/reproductor.php');
+    ?>
     <main>
         <?php
         include('./src/views/layouts/publicidades.php');

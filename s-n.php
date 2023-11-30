@@ -28,6 +28,10 @@
 		include('./src/views/layouts/header.php');
 		?>
 	</header>
+
+	<?php
+	include('./src/views/layouts/reproductor.php');
+	?>
 	<main>
 		<div class="sobre-nos__conteiner">
 			<div id="sobre-nos" class="sobre-nos">
