@@ -1,5 +1,54 @@
-<!--NOTICIAS-->
 <section class="noticias__conteiner" id="noticias">
+
+
+    <div class=" noticias">
+        <img class="img__noticias" src="./src/assets/img/noticias/lu-monte-coach.webp" alt="lu-monte-coach" undownload />
+        <div class=" noticias-contenido">
+            <h3>Lu Monte Coach te invita </h3>
+            <h5>29 de Noviembre de 2023</h5>
+            <p>
+                Este 6 de diciembre de 2023 a la 19:30, están todos invitados por vía Zoom al taller online "Descubre tu propósito de vida" por un precio accesible de $2000 <a href="https://mpago.la/2LGL8ps" target="_blank">Pagar</a>
+                <br /> Por más consultas <a href="https://wa.me/3512030726" target="_blank">WhatsApp</a>
+
+            </p>
+        </div>
+    </div>
+
+    <div class="noticias">
+        <img class="img__noticias" src="./src/assets/img/noticias/AFIT-sub-13.webp" alt="AFIT-sub-13" undownload />
+        <div class=" noticias-contenido">
+            <h3>la sub 13 de AFIT Campeones</h3>
+            <h5>26 de Noviembre de 2023</h5>
+            <p>
+                La sub 13 de San Francisco del Chañar salió campeón de la copa de oro de la liga regional del norte.
+            </p>
+        </div>
+    </div>
+
+    <div class="noticias">
+        <img class="img__noticias" src="./src/assets/img/noticias/alumnos-ipetym-n-63.webp" alt="alumnos-ipetym-n-63" undownload />
+        <div class=" noticias-contenido">
+            <h3>Estudiantes de IPETyM N° 63</h3>
+            <h5>25 de Noviembre de 2023</h5>
+            <p>
+                Estudiantes, Lucio Chaves, Agostina Oroná, Jose castillo y acompañados por el profesor Mariano Navarro de la escuela Técnica Ipetym N° 63 estuvieron participando en el evento "Secu Canta 2023" en la localidad de Sebastián Elcano.
+            </p>
+        </div>
+    </div>
+
+    <div class=" noticias">
+        <img class="img__noticias" src="./src/assets/img/noticias/banco-sfc.webp" alt="bancor-328-sfc" undownload />
+        <div class=" noticias-contenido">
+            <h3>Noticias de Bancor</h3>
+            <h5>21 de Noviembre de 2023</h5>
+            <p>
+                A partir del 1° de Diciembre de 2023, la atención al público será exclusivamente con turno programado.
+                El mismo se podrá obtener de la página oficial de Bancor con N° de DNI y correo electrónico.
+                <br /> podes poedir tu resumen de tarjeta por <a href="https://wa.me/4140000" target="_blank">WhatsApp</a>
+            </p>
+        </div>
+    </div>
+
     <div class="noticias">
         <img class="img__noticias" src="./src/assets/img/noticias/royer-herrera.webp" alt="royer-herrera" undownload />
         <div class=" noticias-contenido">
@@ -27,7 +76,7 @@
 
 
     <div class="noticias">
-        <img class="img__noticias" src="./src/assets/img/noticias/Javier-Milei-Presidente.webp" alt="Javier-Milei-Presidente.webp" undownload />
+        <img class="img__noticias" src="./src/assets/img/noticias/Javier-Milei-Presidente.webp" alt="Javier-Milei-Presidente" undownload />
         <div class=" noticias-contenido">
             <h3>Javier Milei es el nuevo presidente de la nación</h3>
             <h5>19 de Noviembre de 2023</h5>
