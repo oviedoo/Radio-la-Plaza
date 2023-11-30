@@ -136,7 +136,7 @@
         </div>
     </div>
     <div class="noticias">
-        <img class="img__noticias" src="./src/assets/img/noticias/AFIT.webp" alt="afit-femenino" undownload>
+        <img class="img__noticias" src="./src/assets/img/noticias/AFIT.webp" alt="afit-femenino" undownload />
         <div class="noticias-contenido">
             <h3>AFIT feminino clasificó a cuartos de final</h3>
             <h5>24 de septiembre de 2023</h5>
@@ -146,7 +146,7 @@
     </div>
 
     <div class="noticias">
-        <img class="img__noticias" src="./src/assets/img/noticias/franciscana-equipo.webp" alt="equipo-fútbol-la-Franciscana" undownload>
+        <img class="img__noticias" src="./src/assets/img/noticias/franciscana-equipo.webp" alt="equipo-fútbol-la-Franciscana" undownload />
         <div class="noticias-contenido">
             <h3>La Franciscana se clasificó a cuartos de final</h3>
             <h5>24 de septiembre de 2023</h5>
@@ -168,7 +168,7 @@
     </div>
 
     <div class="noticias">
-        <img class="img__noticias" src="./src/assets/img/noticias/voley.webp" alt="equipo-voley-de-chañar" undownload>
+        <img class="img__noticias" src="./src/assets/img/noticias/voley.webp" alt="equipo-voley-de-chañar" undownload />
         <div class="noticias-contenido">
             <h3>Equipo de vóley a instancia provincial </h3>
             <h5>31 de agosto de 2023</h5>
@@ -181,7 +181,7 @@
     </div>
 
     <div class="noticias">
-        <img class="img__noticias" src="./src/assets/img/noticias/equipo-femenino-RS-campeonas.webp" alt="equipo-fútbol-de-rio-seco" undownload>
+        <img class="img__noticias" src="./src/assets/img/noticias/equipo-femenino-RS-campeonas.webp" alt="equipo-fútbol-de-rio-seco" undownload />
         <div class="noticias-contenido">
             <h3>Campeonas en fútbol de la liga del norte</h3>
             <h5>28 de agosto de 2023</h5>
