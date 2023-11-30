@@ -1,65 +1,65 @@
 <!--NOTICIAS-->
 <section class="noticias__conteiner" id="noticias">
     <div class="noticias">
-        <img class="img__noticias" src="./src/assets/img/noticias/royer-herrera.png" alt="royer-herrera" undownload />
+        <img class="img__noticias" src="./src/assets/img/noticias/royer-herrera.webp" alt="royer-herrera" undownload />
         <div class=" noticias-contenido">
             <h3>Todos con Royer Herrera</h3>
             <h5>20 de Noviembre de 2023</h5>
             <p>
                 Royer esta con tratamientos de quimios durante una semana en la que estará en Córdoba y necesita colaboracion para cubrir gastos.
-                <br> <b>CBU: 0200328111000001536812</b>
+                <br /> <b>CBU: 0200328111000001536812</b>
                 <br /><a href="https://www.facebook.com/comunitaria.laplaza.9/videos/7377159578962183?locale=es_LA" target="_blank">Click Aquí</a>
             </p>
         </div>
     </div>
 
     <div class="noticias">
-        <img class="img__noticias" src="./src/assets/img/noticias/raul-arregui.webp" alt="raul-arregui"" undownload />
+        <img class="img__noticias" src="./src/assets/img/noticias/raul-arregui.webp" alt="raul-arregui" undownload />
         <div class=" noticias-contenido">
-        <h3>El tiempo pasa y las secuelas son grandes</h3>
-        <h5>20 de Noviembre de 2023</h5>
-        <p>
-            Raul Arregui y su flia vieron el infierno de cerca, el fuego llegó hasta la puerta de su casa y pudieron sobrevivir para contarlo.
-            <br /><a href="https://www.facebook.com/comunitaria.laplaza.9/videos/1659460161208672?locale=es_LA" target="_blank">Click Aquí</a>
-        </p>
-    </div>
+            <h3>El tiempo pasa y las secuelas son grandes</h3>
+            <h5>20 de Noviembre de 2023</h5>
+            <p>
+                Raul Arregui y su flia vieron el infierno de cerca, el fuego llegó hasta la puerta de su casa y pudieron sobrevivir para contarlo.
+                <br /><a href="https://www.facebook.com/comunitaria.laplaza.9/videos/1659460161208672?locale=es_LA" target="_blank">Click Aquí</a>
+            </p>
+        </div>
     </div>
 
 
     <div class="noticias">
-        <img class="img__noticias" src="./src/assets/img/noticias/Javier-Milei-Presidente.webp" alt="Javier-Milei-Presidente.webp"" undownload />
+        <img class="img__noticias" src="./src/assets/img/noticias/Javier-Milei-Presidente.webp" alt="Javier-Milei-Presidente.webp" undownload />
         <div class=" noticias-contenido">
-        <h3>Javier Milei es el nuevo presidente de la nación</h3>
-        <h5>19 de Noviembre de 2023</h5>
-        <p>
-            Los resultados de las elecciones en nuestro pueblo y en nuestro departamento.
-            <br>SAN FCO DEL CHAÑAR: <b>JAVIER MILEI 1090</b>, <b>SERGIO MASSA 928</b>.
-            <br>DEPARTAMENTO SOBREMONTE: <b>JAVIER MILEI 1471</b>, <b>SERGIO MASSA 1290</b>.
-        </p>
-    </div>
+            <h3>Javier Milei es el nuevo presidente de la nación</h3>
+            <h5>19 de Noviembre de 2023</h5>
+            <p>
+                Los resultados de las elecciones en nuestro pueblo y en nuestro departamento.
+                <br />SAN FCO DEL CHAÑAR: <b>JAVIER MILEI 1090</b>, <b>SERGIO MASSA 928</b>.
+                <br />DEPARTAMENTO SOBREMONTE: <b>JAVIER MILEI 1471</b>, <b>SERGIO MASSA 1290</b>.
+            </p>
+        </div>
     </div>
 
 
     <div class="noticias">
-        <img class="img__noticias" src="./src/assets/img/noticias/ersa.webp" alt="ersa"" undownload />
+        <img class="img__noticias" src="./src/assets/img/noticias/ersa.webp" alt="ersa" undownload />
         <div class=" noticias-contenido">
-        <h3>ERSA SFCO del Chañar</h3>
-        <h5>16 de Noviembre de 2023</h5>
-        <p>
-            Ersa informa que el coche de <b>6:30 a Córdoba y el de 10:45 de Córdoba a Chañar</b> no estarán disponibles hasta próximo aviso.
-        </p>
-    </div>
+            <h3>ERSA SFCO del Chañar</h3>
+            <h5>16 de Noviembre de 2023</h5>
+            <p>
+                Ersa informa que el coche de <b>6:30 a Córdoba y el de 10:45 de Córdoba a Chañar</b> no estarán disponibles hasta próximo aviso.
+            </p>
+        </div>
     </div>
 
     <div class="noticias">
-        <img class="img__noticias" src="./src/assets/img/noticias/AFIT-201415.webp" alt="AFIT-CAT-2014-2015"" undownload />
+        <img class="img__noticias" src="./src/assets/img/noticias/AFIT-201415.webp" alt="AFIT-CAT-2014-2015" undownload />
         <div class=" noticias-contenido">
-        <h3>AFIT 2014/15 Campeones</h3>
-        <h5>11 de Noviembre de 2023</h5>
-        <p>
-            Nuestros niños de AFIT viajaron hasta la ciudad de CARLOS PAZ con la ilusión de jugar y divertirse y no solo lograron eso,fue mucho más trajeron la victoria a nuestro pueblo.
-        </p>
-    </div>
+            <h3>AFIT 2014/15 Campeones</h3>
+            <h5>11 de Noviembre de 2023</h5>
+            <p>
+                Nuestros niños de AFIT viajaron hasta la ciudad de CARLOS PAZ con la ilusión de jugar y divertirse y no solo lograron eso,fue mucho más trajeron la victoria a nuestro pueblo.
+            </p>
+        </div>
     </div>
 
 
@@ -83,7 +83,7 @@
             <p>
                 Los padres de Milo van a estar organizando un campeonato de fútbol a beneficio para solventar gastos de una operación que necesita su hijo Milo.
                 Dicho campeonato se realizará el día 02/12/2023 en el club social y deportivo Santa Elena.
-                <br>
+                <br />
                 <a href="https://wa.link/lp458h" target="_blank" title="Número de WhatsApp">ANOTÁ a tu equipo</a>
                 <a href="https://www.facebook.com/comunitaria.laplaza.9/videos/1533432194073525?locale=es_LA" target="_blank">Click Aquí para ver la entrevista</a>
             </p>
@@ -174,7 +174,7 @@
             <h5>31 de agosto de 2023</h5>
             <p>El equipo de vóley de la escuela técnica Ipetym n°63 de San Francisco del Chañar, pasó a la
                 instancia provincial.
-                <br>
+                <br />
                 Segui nuestras noticias en nuestro Fecebook <a href="https://www.facebook.com/comunitaria.laplaza.9" target="_blank" title="Facebook de la radio">Click aquí</a>
             </p>
         </div>
@@ -187,7 +187,7 @@
             <h5>28 de agosto de 2023</h5>
             <p>El equipo femenino de los cañoncitos campeonas en la final de la liga del norte, le ganaron por
                 penales a San pedro norte.
-                <br>
+                <br />
                 Para ver el penal decisivo <a href="https://www.facebook.com/100059700325098/videos/pcb.684584186874919/809146390940544" target="_blank">Click aquí</a>
             </p>
         </div>
