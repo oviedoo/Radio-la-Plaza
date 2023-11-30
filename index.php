@@ -21,8 +21,8 @@
 
     <meta name="author" content="Jeremías Oviedo" />
     <meta name="copyright" content="copyright Radio Comunitaria la Plaza" />
-    <meta name="description" content="Somos una Radio Comunitaria desde San Francisco del Chañar, Cordoba. Noticias locales,entretenimiento y buena musica." />
-    <meta name="keywords" content="Radio Comunitaria la Plaza 91.5, San Francisco del Chañar, Chañar, Radio, Radio Comunitaria, Radio Comunitaria la Plaza, FARCO, ONG, Comunidad, Un lugar para todos, Mario aventuroso, Radio FM" />
+    <meta name="description" content="Somos una Radio Comunitaria desde San Francisco del Chañar, Cordoba, Argentina." />
+    <meta name="keywords" content="Radio Comunitaria la Plaza 91.5, radio comunitaria la plaza, radio Comunitaria, comunitaria la plaza, comunitaria, la plaza, 91.5, San francisco del chañar, chañar, radio, FARCO, ONG, Comunidad, un lugar para todos, Mario aventuroso, radio FM, fm" />
     <meta name="robots" content="index, follow" />
     <!--para que la pagina se recargue 
 	<meta  http-equiv="refresh"  content="10">
