@@ -7,7 +7,7 @@
         </div>
         <!--REPRODUCTOR DE AUDIO-->
         <div class="audio-conteiner">
-            <audio class="audio" autoplay controls loop>
+            <audio class="audio" controls loop>
                 <source src="http://freeuk30.listen2myradio.com:4865/;" type="audio/mp3" />
                 <source src="http://freeuk30.listen2myradio.com:4865/;" type="audio/AAC" />
             </audio>
