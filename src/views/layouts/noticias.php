@@ -1,5 +1,15 @@
 <section class="noticias__conteiner" id="noticias">
-
+    <div class="noticias">
+        <img class="img__noticias" src="./src/assets/img/noticias/sfco-del-chañar-lluvia.webp" alt="sfco-del-chañar-lluvias" undownload />
+        <div class=" noticias-contenido">
+            <h3>Llegó la lluvia en Chañar</h3>
+            <h5>3 de Diciembre de 2023</h5>
+            <p>
+                El sábado a la noche llegó la lluvia a nuestro pueblo y no paró hasta la madrugada de este domingo, se estima que fueron 103 mm de agua.
+                <br /><a href="https://www.facebook.com/comunitaria.laplaza.9/videos/1010291513390154/?locale=es_LA" target="_blank">Click Aquí</a>
+            </p>
+        </div>
+    </div>
 
     <div class=" noticias">
         <img class="img__noticias" src="./src/assets/img/noticias/lu-monte-coach.webp" alt="lu-monte-coach" undownload />
@@ -39,7 +49,7 @@
     <div class=" noticias">
         <img class="img__noticias" src="./src/assets/img/noticias/banco-sfc.webp" alt="bancor-328-sfc" undownload />
         <div class=" noticias-contenido">
-            <h3>Noticias de Bancor</h3>
+            <h3>Novedades de Bancor</h3>
             <h5>21 de Noviembre de 2023</h5>
             <p>
                 A partir del 1° de Diciembre de 2023, la atención al público será exclusivamente con turno programado.
