@@ -28,62 +28,11 @@
     <!--FAVICON-->
     <link rel="icon" href="./favicon.ico">
     <script src="https://kit.fontawesome.com/4f535f04c7.js" crossorigin="anonymous"></script>
-
-    <style>
-        #video-container {
-            background-color: #000;
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100vw;
-            height: 100vh;
-            z-index: 9999;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-        }
-
-        #close-button {
-            position: absolute;
-            top: 7px;
-            right: 10px;
-            cursor: pointer;
-            color: #e20002;
-            font-size: 27px;
-            font-weight: 600;
-            z-index: 2;
-        }
-
-        #video {
-            width: 100%;
-            height: 100%;
-        }
-
-        #content-container {
-            display: none;
-            /* Ocultar contenido por defecto */
-            z-index: 1;
-        }
-
-
-        @media screen and (min-width:320px) AND (max-width:767px) {
-            #close-button {
-                top: 30px;
-                right: 13px;
-            }
-        }
-    </style>
 </head>
 
 <body>
 
-    <div id="video-container">
-        <span id="close-button" onclick="cerrarVideo()">X</span>
-        <video id="video" width="100%" height="100%" autoplay controls ontimeupdate="verificarTiempo()">
-            <source src="./src/assets/videos/luli-montes-coach.mp4" type="video/mp4">
-            Tu navegador no soporta el elemento de video.
-        </video>
-    </div>
+
 
     <?php
     include('./src/views/layouts/header.php');
@@ -114,35 +63,6 @@
     ?>
 
     <script src="./src/js/fuction.js"></script>
-    <script>
-        // Función para cerrar el video al alcanzar el minuto 0:33
-        function verificarTiempo() {
-            var video = document.getElementById("video");
-            // Verifica si el tiempo actual del video es mayor o igual a 33 segundos
-            if (video.currentTime >= 33) {
-                cerrarVideo();
-            }
-        }
-
-        // Función para cerrar el video
-        function cerrarVideo() {
-            var videoContainer = document.getElementById("video-container");
-            var contentContainer = document.getElementById("content-container");
-
-            videoContainer.style.display = "none";
-            contentContainer.style.display = "block";
-
-            var video = document.getElementById("video");
-            video.pause();
-            video.currentTime = 0; // Reinicia la reproducción al principio
-        }
-
-        // Función que se ejecuta cuando se carga el metadato del video
-        document.getElementById("video").addEventListener("loadedmetadata", function() {
-            // Reproducir el video automáticamente al cargar la página
-            this.play();
-        });
-    </script>
 </body>
 
 </html>
