@@ -42,7 +42,7 @@
     ?>
     <main id="content-container">
         <?php
-        include('./src/views/layouts/publicidades.php');
+        include('./src/views/layouts/difusion.php');
         ?>
         <div id="main">
             <?php
@@ -54,7 +54,7 @@
             <script src="./src/js/fuction.js"></script>
         </div>
         <?php
-        include('./src/views/layouts/publicidades2.php');
+        include('./src/views/layouts/difusion2.php');
         ?>
     </main>
 

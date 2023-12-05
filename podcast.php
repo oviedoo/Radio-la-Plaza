@@ -41,7 +41,7 @@
 			</div>
 		</div>
 		<?php
-		include('./src/views/layouts/publicidades2.php');
+		include('./src/views/layouts/difusion2.php');
 		?>
 	</main>
 	<footer>
