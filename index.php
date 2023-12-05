@@ -17,7 +17,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-    <title>Radio Comunitaria la Plaza</title>
+    <title>Comunitaria la Plaza</title>
 
     <meta name="author" content="Jeremías Oviedo" />
     <meta name="copyright" content="copyright Radio Comunitaria la Plaza" />
@@ -62,6 +62,7 @@
     include('./src/views/layouts/footer.php');
     ?>
 
+    <script src="./src/js/nav.js"></script>
     <script src="./src/js/fuction.js"></script>
 </body>
 

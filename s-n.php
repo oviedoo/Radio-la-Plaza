@@ -54,7 +54,7 @@
 			<div class="card">
 				<img src="./src/assets/img/s-n/mario-aventuroso.png" class="card-img" alt="mario-aventuroso">
 				<div class="card-body">
-					<p class=""><b>Mario Aventuroso</b>
+					<p><a href="https://www.facebook.com/mario.aventuroso.9?locale=es_LA" class="card-body-link" style="text-decoration: none; color: #000;"><b>Mario Aventuroso</b></a>
 						<br />Fundador de la Radio
 					</p>
 				</div>
@@ -63,7 +63,7 @@
 			<div class="card">
 				<img src="./src/assets/img/s-n/lucas-cornejo.png" class="card-img" alt="lucas-cornejo">
 				<div class="card-body">
-					<p class="r"><b>Lucas Cornejo</b>
+					<p><a href="https://www.facebook.com/lucas.cornejo.31?locale=es_LA" class="card-body-link" style="text-decoration: none; color: #000;"><b>Lucas Cornejo</b></a>
 						<br />Locutor de la Radio
 					</p>
 				</div>
@@ -79,5 +79,7 @@
 		include('./src/views/layouts/footer.php');
 		?>
 	</footer>
+
+	<script src="./src/js/nav.js"></script>
 	<script src="./src/js/fuction.js"></script>
 </body>

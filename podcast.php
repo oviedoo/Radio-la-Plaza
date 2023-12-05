@@ -17,6 +17,7 @@
 	<link rel="icon" href="./favicon.ico">
 
 	<script src="https://kit.fontawesome.com/4f535f04c7.js" crossorigin="anonymous"></script>
+
 </head>
 
 <body>
@@ -49,6 +50,7 @@
 		include('./src/views/layouts/footer.php');
 		?>
 	</footer>
+	<script src="./src/js/nav.js"></script>
 	<script src="./src/js/fuction.js"></script>
 </body>
 
