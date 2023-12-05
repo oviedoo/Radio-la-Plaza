@@ -238,7 +238,7 @@ main {
 }
 
 /*SLIDER PUBLICIDADES*/
-.publicidades__conteiner {
+.difusiones__conteiner {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -720,7 +720,7 @@ footer {
     }
 
     /*PUBLICIDADES*/
-    .publicidades__conteiner {
+    .difusiones__conteiner {
         display: flex;
         justify-content: center;
         align-items: center;
