@@ -16,8 +16,11 @@
 	<meta  http-equiv="refresh"  content="10">
 -->
 	<link rel="stylesheet" type="text/css" href="./src/css/style.css">
+	<link rel="stylesheet" href="./src/css/s-n.css">
 	<!--FAVICON-->
 	<link rel="icon" href="./favicon.ico">
+
+
 
 	<script src="https://kit.fontawesome.com/4f535f04c7.js" crossorigin="anonymous"></script>
 </head>
@@ -46,6 +49,27 @@
 				</p>
 			</div>
 		</div>
+
+		<div class="nuestro-equipo">
+			<div class="card">
+				<img src="./src/assets/img/s-n/mario-aventuroso.png" class="card-img" alt="mario-aventuroso">
+				<div class="card-body">
+					<p class=""><b>Mario Aventuroso</b>
+						<br />Fundador de la Radio
+					</p>
+				</div>
+			</div>
+
+			<div class="card">
+				<img src="./src/assets/img/s-n/lucas-cornejo.png" class="card-img" alt="lucas-cornejo">
+				<div class="card-body">
+					<p class="r"><b>Lucas Cornejo</b>
+						<br />Locutor de la Radio
+					</p>
+				</div>
+			</div>
+		</div>
+
 		<?php
 		include('./src/views/layouts/publicidades2.php');
 		?>
