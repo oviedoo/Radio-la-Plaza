@@ -17,7 +17,8 @@
             <h3>Lu Monte Coach te invita </h3>
             <h5>29 de Noviembre de 2023</h5>
             <p>
-                Este 6 de diciembre de 2023 a la 19:30, están todos invitados por vía Zoom al taller online "Descubre tu propósito de vida" por un precio accesible de $2000 <a href="https://mpago.la/2LGL8ps" target="_blank">Pagar</a>
+                Este 6 de diciembre de 2023 a la 19:30, están todos invitados por vía Zoom al taller online "Descubre tu propósito de vida"
+                <br /><a href="https://mpago.la/2LGL8ps" target="_blank">Pagar taller</a>
                 <br /> Por más consultas <a href="https://wa.me/3512030726" target="_blank">WhatsApp</a>
 
             </p>
