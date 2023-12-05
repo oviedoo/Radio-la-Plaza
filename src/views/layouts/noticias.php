@@ -17,8 +17,9 @@
             <h3>Final de la liga de Ischilin</h3>
             <h5>2 de Diciembre de 2023</h5>
             <p>
-                Nuestro comentarista Lucas Cornejo, estuvo relatando la gran final de la liga de Ischilin, donde Ilusion del norte ganó la gran final por penales contra Club Atletico Ischilin
-                <br /> Para ver la final<a href="https://www.facebook.com/quecobrai.quecobrai/videos/724903902472523" target="_blank">Click Aquí</a>
+                Lucas Cornejo relató las instancias de la gran final en la Liga de ischilin dónde resultara campeón ilusión del norte (Sebastián el Cano)
+                sombre su par atlético ischilin (Dean Funes).
+                <br /><a href="https://www.facebook.com/quecobrai.quecobrai/videos/724903902472523" target="_blank">Click Aquí</a> para ver los vibrantes momentos de este gran cortejo deportivo en la voz de nuestro gran relator.
                 <br /> Para ver la los penales de la final <a href="./src/assets/videos/Penales-Final-Ischilin-2023.mp4" undownload target="_blank">Click Aquí</a>
 
             </p>
