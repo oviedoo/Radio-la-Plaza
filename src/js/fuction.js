@@ -6,9 +6,9 @@ function yearAgo() {
   const n = d.getFullYear();
 
   document.getElementById("yearAgo").innerText = n;
-  yearAgo();
-}
 
+}
+yearAgo();
 
 
 // BOTON VER MÁS
