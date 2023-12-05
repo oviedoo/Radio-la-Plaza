@@ -11,6 +11,20 @@
         </div>
     </div>
 
+    <div class="noticias">
+        <img class="img__noticias" src="./src/assets/img/noticias/final-liga-de-ischilin.webp" alt="final-liga-de-ischilin-2023" undownload />
+        <div class=" noticias-contenido">
+            <h3>Final de la liga de Ischilin</h3>
+            <h5>2 de Diciembre de 2023</h5>
+            <p>
+                Nuestro comentarista Lucas Cornejo, estuvo relatando la gran final de la liga de Ischilin, donde Ilusion del norte ganó la gran final por penales contra Club Atletico Ischilin
+                <br /> Para ver la final<a href="https://www.facebook.com/quecobrai.quecobrai/videos/724903902472523" target="_blank">Click Aquí</a>
+                <br /> Para ver la los penales de la final <a href="./src/assets/videos/Penales-Final-Ischilin-2023.mp4" undownload target="_blank">Click Aquí</a>
+
+            </p>
+        </div>
+    </div>
+
     <div class=" noticias">
         <img class="img__noticias" src="./src/assets/img/noticias/lu-monte-coach.webp" alt="lu-monte-coach" undownload />
         <div class=" noticias-contenido">
@@ -86,18 +100,7 @@
     </div>
 
 
-    <div class="noticias">
-        <img class="img__noticias" src="./src/assets/img/noticias/Javier-Milei-Presidente.webp" alt="Javier-Milei-Presidente" undownload />
-        <div class=" noticias-contenido">
-            <h3>Javier Milei es el nuevo presidente de la nación</h3>
-            <h5>19 de Noviembre de 2023</h5>
-            <p>
-                Los resultados de las elecciones en nuestro pueblo y en nuestro departamento.
-                <br />SAN FCO DEL CHAÑAR: <b>JAVIER MILEI 1090</b>, <b>SERGIO MASSA 928</b>.
-                <br />DEPARTAMENTO SOBREMONTE: <b>JAVIER MILEI 1471</b>, <b>SERGIO MASSA 1290</b>.
-            </p>
-        </div>
-    </div>
+
 
 
     <div class="noticias">
@@ -174,17 +177,7 @@
     </div>
 
 
-    <div class="noticias">
-        <img class="img__noticias" src="./src/assets/img/noticias/candidatos-debate-2023.webp" alt="elecciones-2023" undownload />
-        <div class="noticias-contenido">
-            <h3>Elecciones presidencial 2023</h3>
-            <h5>22 de octubre de 2023</h5>
-            <p>Los resultados en San Francisco del Chañar
-                <b>JUAN SCHIARETTI:</b> 769, <b>PATRICIA BULRICH: </b>738, <b>JAVIER MILEI:</b> 393, <b>SERGIO
-                    MASSA:</b> 241, <b>MYRIAN BREGMAN:</b> 14.
-            </p>
-        </div>
-    </div>
+
     <div class="noticias">
         <img class="img__noticias" src="./src/assets/img/noticias/nene_ataide.webp" alt="nene-ataide" undownload />
         <div class="noticias-contenido">
@@ -300,9 +293,9 @@
             <p>
                 Ocurrió durante un partido de la Liga de Ischilín. El juez quedó
                 inconsciente y tuvo que recibir atención médica. El atacante fue
-                detenido.<br /><a href="https://www.facebook.com/100059700325098/videos/977523023307931/" target="_blank">Click Aquí</a>
-                <br />
-                Mira el vídeo del momento de la agresión
+                detenido.
+                <br /><a href="https://www.facebook.com/100059700325098/videos/977523023307931/" target="_blank">Click Aquí</a>
+                <br /> Mira el vídeo del momento de la agresión
                 <a href="./src/assets/videos/video-agresion-arbitro.mp4" undownload target="_blank">Aqui</a>
             </p>
         </div>
