@@ -1,4 +1,31 @@
 <section class="noticias__conteiner" id="noticias">
+
+    <div class="noticias">
+        <img class="img__noticias" src="./src/assets/img/noticias/musica-cc.webp" alt="musica-cc" undownload />
+        <div class=" noticias-contenido">
+            <h3>Escuela Superior de Música de Colonia Caroya </h3>
+            <h5>6 de Diciembre de 2023</h5>
+            <p>
+                Estudiá música en la Escuela Superior de Música de Colonia Caroya.
+                Ya están abiertas las inscripciones 2024! Te esperamos!
+                <br /><a href="https://www.facebook.com/comunitaria.laplaza.9/videos/747402053895337?locale=es_LA" target="_blank">Click Aquí</a>
+                <a href="https://caroyamusica.com.ar/" target="_blank">Inscribirse</a>
+            </p>
+        </div>
+    </div>
+
+    <div class="noticias">
+        <img class="img__noticias" src="./src/assets/img/noticias/verduleria-don-jose.webp" alt="verduleria-don-jose" undownload />
+        <div class=" noticias-contenido">
+            <h3>Inauguración de verduleria Don José </h3>
+            <h5>5 de Diciembre de 2023</h5>
+            <p>
+                Nueva verduleria de Nahuel Escobar en San Francisco del Chañar.
+                <br /><a href="https://www.facebook.com/comunitaria.laplaza.9/videos/737263734921357?locale=es_LA" target="_blank">Click Aquí</a>
+            </p>
+        </div>
+    </div>
+
     <div class="noticias">
         <img class="img__noticias" src="./src/assets/img/noticias/sfco-del-chañar-lluvia.webp" alt="sfco-del-chañar-lluvias" undownload />
         <div class=" noticias-contenido">
