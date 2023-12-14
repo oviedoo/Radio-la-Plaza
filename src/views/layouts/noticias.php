@@ -1,6 +1,72 @@
 <section class="noticias__conteiner" id="noticias">
 
     <div class="noticias">
+        <img class="img__noticias" src="./src/assets/img/noticias/lucas-periodista.webp" alt="lucas-periodista" undownload />
+        <div class=" noticias-contenido">
+            <h3>Lucas, nuestro periodista consiguió su diplomatura</h3>
+            <h5>14 de Diciembre de 2023</h5>
+            <p>
+                Hace un tiempo, cuando comenzábamos a transitar este camino de hacer radio, todo era un aprendizaje a fuerza de ganas, pasión e improvisación, así sobre la marcha como se sabe decir.
+                Nuestro compañero Lucas no solo se quedó con eso y acomodando horarios entre su trabajo, su familia y la radio decidió reforzar con estudio su ya gran capacidad, oficio y carisma, para
+                con mucho esfuerzo lograr obtener hoy su DIPLOMATURA EN PERIODISMO.
+            </p>
+        </div>
+    </div>
+
+    <div class="noticias">
+        <img class="img__noticias" src="./src/assets/img/noticias/mario-y-lucas.webp" alt="mario-y-lucas" undownload />
+        <div class=" noticias-contenido">
+            <h3>Un estado ausente.</h3>
+            <h5>14 de Diciembre de 2023</h5>
+            <p>
+                Se comunicó Maria y su familia para comentarnos la triste realidad que están viviendo.
+
+                <br /><a href="https://www.facebook.com/comunitaria.laplaza.9/videos/1287953625215468?locale=es_LA" target="_blank">Click Aquí</a>
+            </p>
+        </div>
+    </div>
+
+    <div class="noticias">
+        <img class="img__noticias" src="./src/assets/img/noticias/acto-pozo nuevo.webp" alt="acto-pozo-nuevo" undownload />
+        <div class=" noticias-contenido">
+            <h3>Entrega de viviendas en Pozo Nuevo </h3>
+            <h5>11 de Diciembre de 2023</h5>
+            <p>
+                En el día de hoy se inauguraron la entrada nueva de pozo nuevo, plan viviendas y nuevas obras en la Subcomisaria.
+
+                <br />Para ver el acto <a href="https://www.facebook.com/comunitaria.laplaza.9/videos/382666070998468?locale=es_LA" target="_blank">Click Aquí</a>
+                <a href="https://www.facebook.com/comunitaria.laplaza.9/videos/720220160032107?locale=es_LA" target="_blank">Plan Viviendas</a>
+                <a href="https://www.facebook.com/comunitaria.laplaza.9/videos/1715929675581046?locale=es_LA" target="_blank">Entrada Nueva</a>
+                <a href="https://www.facebook.com/comunitaria.laplaza.9/videos/874878754113318?locale=es_LA" target="_blank">Subcomisaria</a>
+            </p>
+        </div>
+    </div>
+
+    <div class="noticias">
+        <img class="img__noticias" src="./src/assets/img/noticias/lucas-cornejo-locutor.webp" alt="lucas-cornejo-locutor" undownload />
+        <div class=" noticias-contenido">
+            <h3>Evento de vienvenida</h3>
+            <h5>10 de Diciembre de 2023</h5>
+            <p>
+                Trasmisión en vivo del evento, con la animación de Lucas Cornejo y Milagros Ibarra.
+                <br />Para ver el acto <a href="https://www.facebook.com/comunitaria.laplaza.9/videos/1069373777812753?locale=es_LA" target="_blank">Click Aquí</a>
+            </p>
+        </div>
+    </div>
+
+    <div class="noticias">
+        <img class="img__noticias" src="./src/assets/img/noticias/asuncion-del-intendente-sfc-2023.webp" alt="acto-asuncion-del-intendente-sfc-2023" undownload />
+        <div class=" noticias-contenido">
+            <h3>Acto de asunción del intendente electo</h3>
+            <h5>10 de Diciembre de 2023</h5>
+            <p>
+                Estuvimos transmitiendo el acto de asunción del intendente electo Sebastián Argañaraz.
+                <br />Para ver el acto <a href="https://www.facebook.com/comunitaria.laplaza.9/videos/1457266711583260?locale=es_LA" target="_blank">Click Aquí</a>
+            </p>
+        </div>
+    </div>
+
+    <div class="noticias">
         <img class="img__noticias" src="./src/assets/img/noticias/musica-cc.webp" alt="musica-cc" undownload />
         <div class=" noticias-contenido">
             <h3>Escuela Superior de Música de Colonia Caroya </h3>
@@ -53,19 +119,6 @@
         </div>
     </div>
 
-    <div class=" noticias">
-        <img class="img__noticias" src="./src/assets/img/noticias/lu-monte-coach.webp" alt="lu-monte-coach" undownload />
-        <div class=" noticias-contenido">
-            <h3>Lu Monte Coach te invita </h3>
-            <h5>29 de Noviembre de 2023</h5>
-            <p>
-                Este 6 de diciembre de 2023 a la 19:30, están todos invitados por vía Zoom al taller online "Descubre tu propósito de vida"
-                <br /><a href="https://mpago.la/2LGL8ps" target="_blank">Pagar taller</a>
-                <br /> Por más consultas <a href="https://wa.me/3512030726" target="_blank">WhatsApp</a>
-
-            </p>
-        </div>
-    </div>
 
     <div class="noticias">
         <img class="img__noticias" src="./src/assets/img/noticias/AFIT-sub-13.webp" alt="AFIT-sub-13" undownload />
