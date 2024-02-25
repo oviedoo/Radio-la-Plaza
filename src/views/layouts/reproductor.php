@@ -8,8 +8,8 @@
         <!--REPRODUCTOR DE AUDIO-->
         <div class="audio-conteiner">
             <audio class="audio" autoplay controls loop>
-                <source src="http://freeuk30.listen2myradio.com:4865/;" type="audio/mp3" />
-                <source src="http://freeuk30.listen2myradio.com:4865/;" type="audio/AAC" />
+                <source src="http://freeuk30.listen2myradio.com:4285/;" type="audio/mp3" />
+
             </audio>
         </div>
         <h3 class="sms">Mandanos un Mensaje a nuestro WhatsApp</h3>
